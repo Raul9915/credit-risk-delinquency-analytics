@@ -1,0 +1,183 @@
+risk_band,name_contract_type,name_income_type,name_education_type,n_clients,n_defaults,sum_pd,default_rate,avg_pd
+A,Cash loans,Commercial associate,Academic degree,1,0,0.009747,0.0,0.009747
+A,Cash loans,Commercial associate,Higher education,1361,10,18.68069,0.007348,0.013726
+A,Cash loans,Commercial associate,Incomplete higher,91,2,1.325459,0.021978,0.014565
+A,Cash loans,Commercial associate,Lower secondary,10,1,0.140114,0.1,0.014011
+A,Cash loans,Commercial associate,Secondary / secondary special,1183,18,17.714726,0.015216,0.014974
+A,Cash loans,Pensioner,Academic degree,5,0,0.066942,0.0,0.013388
+A,Cash loans,Pensioner,Higher education,588,8,7.981621,0.013605,0.013574
+A,Cash loans,Pensioner,Incomplete higher,22,0,0.339153,0.0,0.015416
+A,Cash loans,Pensioner,Lower secondary,64,2,0.978718,0.03125,0.015292
+A,Cash loans,Pensioner,Secondary / secondary special,2324,43,33.786472,0.018503,0.014538
+A,Cash loans,State servant,Academic degree,1,0,0.018049,0.0,0.018049
+A,Cash loans,State servant,Higher education,633,11,8.593883,0.017378,0.013576
+A,Cash loans,State servant,Incomplete higher,23,1,0.327288,0.043478,0.01423
+A,Cash loans,State servant,Lower secondary,1,0,0.018049,0.0,0.018049
+A,Cash loans,State servant,Secondary / secondary special,481,2,6.85035,0.004158,0.014242
+A,Cash loans,Working,Academic degree,3,0,0.042574,0.0,0.014191
+A,Cash loans,Working,Higher education,1604,27,22.600622,0.016833,0.01409
+A,Cash loans,Working,Incomplete higher,124,2,1.968746,0.016129,0.015877
+A,Cash loans,Working,Lower secondary,20,0,0.33794,0.0,0.016897
+A,Cash loans,Working,Secondary / secondary special,2423,33,36.699159,0.013619,0.015146
+A,Revolving loans,Commercial associate,Academic degree,1,0,0.01885,0.0,0.01885
+A,Revolving loans,Commercial associate,Higher education,350,2,4.03274,0.005714,0.011522
+A,Revolving loans,Commercial associate,Incomplete higher,18,1,0.263519,0.055556,0.01464
+A,Revolving loans,Commercial associate,Secondary / secondary special,190,1,2.778191,0.005263,0.014622
+A,Revolving loans,Maternity leave,Higher education,1,0,0.002088,0.0,0.002088
+A,Revolving loans,Pensioner,Higher education,89,0,1.132091,0.0,0.01272
+A,Revolving loans,Pensioner,Incomplete higher,1,0,0.009747,0.0,0.009747
+A,Revolving loans,Pensioner,Lower secondary,2,0,0.0377,0.0,0.01885
+A,Revolving loans,Pensioner,Secondary / secondary special,175,3,2.628626,0.017143,0.015021
+A,Revolving loans,State servant,Higher education,94,1,1.095085,0.010638,0.01165
+A,Revolving loans,State servant,Incomplete higher,5,0,0.068972,0.0,0.013794
+A,Revolving loans,State servant,Secondary / secondary special,52,2,0.743415,0.038462,0.014296
+A,Revolving loans,Unemployed,Higher education,1,0,0.01885,0.0,0.01885
+A,Revolving loans,Working,Academic degree,1,0,0.018049,0.0,0.018049
+A,Revolving loans,Working,Higher education,325,1,4.428414,0.003077,0.013626
+A,Revolving loans,Working,Incomplete higher,21,0,0.311861,0.0,0.014851
+A,Revolving loans,Working,Secondary / secondary special,318,1,4.907743,0.003145,0.015433
+B,Cash loans,Commercial associate,Academic degree,1,0,0.026789,0.0,0.026789
+B,Cash loans,Commercial associate,Higher education,888,28,23.129105,0.031532,0.026046
+B,Cash loans,Commercial associate,Incomplete higher,131,5,3.442131,0.038168,0.026276
+B,Cash loans,Commercial associate,Lower secondary,11,0,0.286736,0.0,0.026067
+B,Cash loans,Commercial associate,Secondary / secondary special,1515,50,39.723072,0.033003,0.02622
+B,Cash loans,Pensioner,Academic degree,2,0,0.045638,0.0,0.022819
+B,Cash loans,Pensioner,Higher education,411,6,10.66482,0.014599,0.025948
+B,Cash loans,Pensioner,Incomplete higher,24,1,0.626712,0.041667,0.026113
+B,Cash loans,Pensioner,Lower secondary,61,2,1.590054,0.032787,0.026066
+B,Cash loans,Pensioner,Secondary / secondary special,2121,71,55.420939,0.033475,0.02613
+B,Cash loans,State servant,Academic degree,1,0,0.026789,0.0,0.026789
+B,Cash loans,State servant,Higher education,346,10,8.970722,0.028902,0.025927
+B,Cash loans,State servant,Incomplete higher,23,2,0.589451,0.086957,0.025628
+B,Cash loans,State servant,Lower secondary,3,0,0.072427,0.0,0.024142
+B,Cash loans,State servant,Secondary / secondary special,490,12,12.915599,0.02449,0.026358
+B,Cash loans,Student,Secondary / secondary special,1,0,0.026789,0.0,0.026789
+B,Cash loans,Working,Academic degree,3,0,0.0829,0.0,0.027633
+B,Cash loans,Working,Higher education,1258,26,32.799014,0.020668,0.026072
+B,Cash loans,Working,Incomplete higher,156,3,4.088703,0.019231,0.02621
+B,Cash loans,Working,Lower secondary,39,0,1.019928,0.0,0.026152
+B,Cash loans,Working,Secondary / secondary special,3507,100,92.292623,0.028514,0.026317
+B,Revolving loans,Businessman,Higher education,1,0,0.026789,0.0,0.026789
+B,Revolving loans,Commercial associate,Higher education,141,2,3.649062,0.014184,0.02588
+B,Revolving loans,Commercial associate,Incomplete higher,18,0,0.471048,0.0,0.026169
+B,Revolving loans,Commercial associate,Secondary / secondary special,186,7,4.792542,0.037634,0.025766
+B,Revolving loans,Pensioner,Higher education,27,1,0.727865,0.037037,0.026958
+B,Revolving loans,Pensioner,Incomplete higher,2,0,0.053577,0.0,0.026789
+B,Revolving loans,Pensioner,Lower secondary,3,0,0.077495,0.0,0.025832
+B,Revolving loans,Pensioner,Secondary / secondary special,150,6,3.949907,0.04,0.026333
+B,Revolving loans,State servant,Higher education,34,1,0.865377,0.029412,0.025452
+B,Revolving loans,State servant,Incomplete higher,7,0,0.176889,0.0,0.02527
+B,Revolving loans,State servant,Lower secondary,1,0,0.026789,0.0,0.026789
+B,Revolving loans,State servant,Secondary / secondary special,44,2,1.153575,0.045455,0.026218
+B,Revolving loans,Working,Higher education,209,9,5.439959,0.043062,0.026029
+B,Revolving loans,Working,Incomplete higher,32,1,0.845772,0.03125,0.02643
+B,Revolving loans,Working,Lower secondary,1,1,0.01885,1.0,0.01885
+B,Revolving loans,Working,Secondary / secondary special,430,7,11.317351,0.016279,0.026319
+C,Cash loans,Commercial associate,Academic degree,1,1,0.058859,1.0,0.058859
+C,Cash loans,Commercial associate,Higher education,790,42,36.249741,0.053165,0.045886
+C,Cash loans,Commercial associate,Incomplete higher,124,3,5.909828,0.024194,0.04766
+C,Cash loans,Commercial associate,Lower secondary,18,1,0.760013,0.055556,0.042223
+C,Cash loans,Commercial associate,Secondary / secondary special,1660,94,78.202969,0.056627,0.04711
+C,Cash loans,Pensioner,Higher education,287,16,13.126411,0.055749,0.045737
+C,Cash loans,Pensioner,Incomplete higher,23,1,1.022177,0.043478,0.044442
+C,Cash loans,Pensioner,Lower secondary,60,3,2.756539,0.05,0.045942
+C,Cash loans,Pensioner,Secondary / secondary special,1870,77,87.070788,0.041176,0.046562
+C,Cash loans,State servant,Academic degree,1,0,0.054577,0.0,0.054577
+C,Cash loans,State servant,Higher education,279,16,12.746189,0.057348,0.045685
+C,Cash loans,State servant,Incomplete higher,30,1,1.384693,0.033333,0.046156
+C,Cash loans,State servant,Lower secondary,6,0,0.249019,0.0,0.041503
+C,Cash loans,State servant,Secondary / secondary special,458,24,21.395515,0.052402,0.046715
+C,Cash loans,Working,Academic degree,3,0,0.111484,0.0,0.037161
+C,Cash loans,Working,Higher education,1123,49,52.306456,0.043633,0.046577
+C,Cash loans,Working,Incomplete higher,203,15,9.620464,0.073892,0.047391
+C,Cash loans,Working,Lower secondary,61,5,2.944798,0.081967,0.048275
+C,Cash loans,Working,Secondary / secondary special,4187,213,197.809775,0.050872,0.047244
+C,Revolving loans,Commercial associate,Higher education,85,4,3.876329,0.047059,0.045604
+C,Revolving loans,Commercial associate,Incomplete higher,18,1,0.880796,0.055556,0.048933
+C,Revolving loans,Commercial associate,Lower secondary,4,0,0.180333,0.0,0.045083
+C,Revolving loans,Commercial associate,Secondary / secondary special,204,17,9.7328,0.083333,0.04771
+C,Revolving loans,Pensioner,Higher education,19,1,0.945596,0.052632,0.049768
+C,Revolving loans,Pensioner,Incomplete higher,1,0,0.038217,0.0,0.038217
+C,Revolving loans,Pensioner,Lower secondary,4,1,0.170235,0.25,0.042559
+C,Revolving loans,Pensioner,Secondary / secondary special,113,4,4.997137,0.035398,0.044222
+C,Revolving loans,State servant,Higher education,24,0,1.088543,0.0,0.045356
+C,Revolving loans,State servant,Incomplete higher,4,0,0.181479,0.0,0.04537
+C,Revolving loans,State servant,Secondary / secondary special,43,0,2.133278,0.0,0.049611
+C,Revolving loans,Unemployed,Higher education,1,0,0.038462,0.0,0.038462
+C,Revolving loans,Working,Higher education,162,3,7.766887,0.018519,0.047944
+C,Revolving loans,Working,Incomplete higher,27,1,1.291736,0.037037,0.047842
+C,Revolving loans,Working,Lower secondary,7,0,0.390925,0.0,0.055846
+C,Revolving loans,Working,Secondary / secondary special,504,24,23.849536,0.047619,0.047321
+D,Cash loans,Commercial associate,Academic degree,1,0,0.084674,0.0,0.084674
+D,Cash loans,Commercial associate,Higher education,615,53,56.043733,0.086179,0.091128
+D,Cash loans,Commercial associate,Incomplete higher,124,8,11.250309,0.064516,0.090728
+D,Cash loans,Commercial associate,Lower secondary,24,2,2.200396,0.083333,0.091683
+D,Cash loans,Commercial associate,Secondary / secondary special,1725,147,156.982503,0.085217,0.091004
+D,Cash loans,Pensioner,Academic degree,1,0,0.108225,0.0,0.108225
+D,Cash loans,Pensioner,Higher education,194,20,17.111019,0.103093,0.088201
+D,Cash loans,Pensioner,Incomplete higher,13,1,1.16283,0.076923,0.089448
+D,Cash loans,Pensioner,Lower secondary,61,6,5.278293,0.098361,0.086529
+D,Cash loans,Pensioner,Secondary / secondary special,1405,127,124.773522,0.090391,0.088807
+D,Cash loans,State servant,Academic degree,1,0,0.108225,0.0,0.108225
+D,Cash loans,State servant,Higher education,198,16,18.028833,0.080808,0.091055
+D,Cash loans,State servant,Incomplete higher,32,3,2.884973,0.09375,0.090155
+D,Cash loans,State servant,Lower secondary,6,1,0.53937,0.166667,0.089895
+D,Cash loans,State servant,Secondary / secondary special,386,48,34.752888,0.124352,0.090033
+D,Cash loans,Student,Higher education,1,0,0.073753,0.0,0.073753
+D,Cash loans,Unemployed,Secondary / secondary special,1,0,0.131307,0.0,0.131307
+D,Cash loans,Working,Academic degree,2,0,0.21645,0.0,0.108225
+D,Cash loans,Working,Higher education,1004,88,90.442311,0.087649,0.090082
+D,Cash loans,Working,Incomplete higher,243,27,21.976538,0.111111,0.090438
+D,Cash loans,Working,Lower secondary,92,10,8.392442,0.108696,0.091222
+D,Cash loans,Working,Secondary / secondary special,4784,483,437.732168,0.100962,0.091499
+D,Revolving loans,Commercial associate,Higher education,45,7,3.928804,0.155556,0.087307
+D,Revolving loans,Commercial associate,Incomplete higher,9,1,0.766185,0.111111,0.085132
+D,Revolving loans,Commercial associate,Lower secondary,2,0,0.16146,0.0,0.08073
+D,Revolving loans,Commercial associate,Secondary / secondary special,169,9,15.617392,0.053254,0.092411
+D,Revolving loans,Pensioner,Higher education,10,0,0.82228,0.0,0.082228
+D,Revolving loans,Pensioner,Incomplete higher,1,0,0.07013,0.0,0.07013
+D,Revolving loans,Pensioner,Lower secondary,4,0,0.455512,0.0,0.113878
+D,Revolving loans,Pensioner,Secondary / secondary special,71,7,6.235605,0.098592,0.087825
+D,Revolving loans,State servant,Higher education,16,1,1.344754,0.0625,0.084047
+D,Revolving loans,State servant,Incomplete higher,2,0,0.208092,0.0,0.104046
+D,Revolving loans,State servant,Secondary / secondary special,27,5,2.311792,0.185185,0.085622
+D,Revolving loans,Working,Higher education,117,9,10.96091,0.076923,0.093683
+D,Revolving loans,Working,Incomplete higher,34,4,3.180734,0.117647,0.093551
+D,Revolving loans,Working,Lower secondary,6,1,0.521793,0.166667,0.086965
+D,Revolving loans,Working,Secondary / secondary special,504,43,46.307881,0.085317,0.091881
+E,Cash loans,Commercial associate,Academic degree,1,0,0.174441,0.0,0.174441
+E,Cash loans,Commercial associate,Higher education,478,102,98.113245,0.213389,0.205258
+E,Cash loans,Commercial associate,Incomplete higher,134,28,28.678413,0.208955,0.214018
+E,Cash loans,Commercial associate,Lower secondary,29,11,7.415407,0.37931,0.255704
+E,Cash loans,Commercial associate,Secondary / secondary special,1899,404,425.650259,0.212744,0.224144
+E,Cash loans,Pensioner,Higher education,95,20,19.20418,0.210526,0.202149
+E,Cash loans,Pensioner,Incomplete higher,9,0,1.872693,0.0,0.208077
+E,Cash loans,Pensioner,Lower secondary,35,7,7.250721,0.2,0.207163
+E,Cash loans,Pensioner,Secondary / secondary special,835,148,171.211434,0.177246,0.205044
+E,Cash loans,State servant,Academic degree,1,0,0.174441,0.0,0.174441
+E,Cash loans,State servant,Higher education,115,22,23.749802,0.191304,0.20652
+E,Cash loans,State servant,Incomplete higher,28,8,5.038846,0.285714,0.179959
+E,Cash loans,State servant,Lower secondary,9,0,1.691837,0.0,0.187982
+E,Cash loans,State servant,Secondary / secondary special,350,81,78.588199,0.231429,0.224538
+E,Cash loans,Student,Secondary / secondary special,1,0,0.174441,0.0,0.174441
+E,Cash loans,Unemployed,Incomplete higher,1,1,0.473118,1.0,0.473118
+E,Cash loans,Unemployed,Secondary / secondary special,4,4,1.181352,1.0,0.295338
+E,Cash loans,Working,Academic degree,3,0,0.538492,0.0,0.179497
+E,Cash loans,Working,Higher education,895,172,191.454697,0.192179,0.213916
+E,Cash loans,Working,Incomplete higher,235,47,51.193071,0.2,0.217843
+E,Cash loans,Working,Lower secondary,120,29,30.374226,0.241667,0.253119
+E,Cash loans,Working,Secondary / secondary special,6357,1493,1543.185181,0.234859,0.242754
+E,Revolving loans,Commercial associate,Higher education,27,2,4.758842,0.074074,0.176253
+E,Revolving loans,Commercial associate,Incomplete higher,10,1,1.870033,0.1,0.187003
+E,Revolving loans,Commercial associate,Lower secondary,1,0,0.131657,0.0,0.131657
+E,Revolving loans,Commercial associate,Secondary / secondary special,84,15,15.803824,0.178571,0.188141
+E,Revolving loans,Pensioner,Higher education,5,0,0.787066,0.0,0.157413
+E,Revolving loans,Pensioner,Incomplete higher,1,0,0.131657,0.0,0.131657
+E,Revolving loans,Pensioner,Lower secondary,1,0,0.179775,0.0,0.179775
+E,Revolving loans,Pensioner,Secondary / secondary special,21,2,3.711051,0.095238,0.176717
+E,Revolving loans,State servant,Higher education,5,0,0.85135,0.0,0.17027
+E,Revolving loans,State servant,Secondary / secondary special,20,4,4.653697,0.2,0.232685
+E,Revolving loans,Working,Higher education,53,8,9.950897,0.150943,0.187753
+E,Revolving loans,Working,Incomplete higher,21,2,3.869205,0.095238,0.184248
+E,Revolving loans,Working,Lower secondary,10,2,2.016644,0.2,0.201664
+E,Revolving loans,Working,Secondary / secondary special,392,83,77.024722,0.211735,0.196492

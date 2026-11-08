@@ -1,0 +1,25 @@
+segment_type,segment_value,n_clients,n_defaults,default_rate
+Overall,All applicants,307511,24825,0.080729
+Contract type,Cash loans,278232,23221,0.083459
+Contract type,Revolving loans,29279,1604,0.054783
+Income type,Businessman,10,0,0.0
+Income type,Commercial associate,71617,5360,0.074843
+Income type,Maternity leave,5,2,0.4
+Income type,Pensioner,55362,2982,0.053864
+Income type,State servant,21703,1249,0.05755
+Income type,Student,18,0,0.0
+Income type,Unemployed,22,8,0.363636
+Income type,Working,158774,15224,0.095885
+Education,Academic degree,164,3,0.018293
+Education,Higher education,74863,4009,0.053551
+Education,Incomplete higher,10277,872,0.08485
+Education,Lower secondary,3816,417,0.109277
+Education,Secondary / secondary special,218391,19524,0.089399
+Age band,25-34,72429,7721,0.106601
+Age band,35-44,84261,7085,0.084084
+Age band,45-54,70190,4946,0.070466
+Age band,55-64,60522,3281,0.054212
+Age band,65+,7876,288,0.036567
+Age band,<25,12233,1504,0.122946
+Bureau history,No bureau history,44020,4457,0.101249
+Bureau history,With bureau history,263491,20368,0.077301

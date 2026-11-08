@@ -1,0 +1,246 @@
+credit_type,from_state,from_order,to_state,to_order,n_transitions,probability
+All,Current,0,Closed,-1,341930,0.052438
+All,Current,0,Current,0,6035859,0.925645
+All,Current,0,DPD 1-30,1,138732,0.021276
+All,Current,0,DPD 31-60,2,3187,0.000489
+All,Current,0,DPD 61-90,3,205,3.1e-05
+All,Current,0,DPD 91-120,4,31,5e-06
+All,Current,0,DPD 120+,5,764,0.000117
+All,DPD 1-30,1,Closed,-1,18398,0.085062
+All,DPD 1-30,1,Current,0,108031,0.499475
+All,DPD 1-30,1,DPD 1-30,1,77086,0.356403
+All,DPD 1-30,1,DPD 31-60,2,12514,0.057858
+All,DPD 1-30,1,DPD 61-90,3,204,0.000943
+All,DPD 1-30,1,DPD 91-120,4,2,9e-06
+All,DPD 1-30,1,DPD 120+,5,54,0.00025
+All,DPD 31-60,2,Closed,-1,1511,0.076375
+All,DPD 31-60,2,Current,0,5223,0.264001
+All,DPD 31-60,2,DPD 1-30,1,3044,0.153862
+All,DPD 31-60,2,DPD 31-60,2,3724,0.188233
+All,DPD 31-60,2,DPD 61-90,3,6133,0.309998
+All,DPD 31-60,2,DPD 91-120,4,131,0.006622
+All,DPD 31-60,2,DPD 120+,5,18,0.00091
+All,DPD 61-90,3,Closed,-1,580,0.076954
+All,DPD 61-90,3,Current,0,967,0.1283
+All,DPD 61-90,3,DPD 1-30,1,447,0.059307
+All,DPD 61-90,3,DPD 31-60,2,391,0.051877
+All,DPD 61-90,3,DPD 61-90,3,912,0.121003
+All,DPD 61-90,3,DPD 91-120,4,4132,0.548229
+All,DPD 61-90,3,DPD 120+,5,108,0.014329
+All,DPD 91-120,4,Closed,-1,392,0.082457
+All,DPD 91-120,4,Current,0,344,0.07236
+All,DPD 91-120,4,DPD 1-30,1,134,0.028187
+All,DPD 91-120,4,DPD 31-60,2,93,0.019562
+All,DPD 91-120,4,DPD 61-90,3,113,0.023769
+All,DPD 91-120,4,DPD 91-120,4,394,0.082878
+All,DPD 91-120,4,DPD 120+,5,3284,0.690787
+All,DPD 120+,5,Closed,-1,1511,0.031667
+All,DPD 120+,5,Current,0,941,0.019721
+All,DPD 120+,5,DPD 1-30,1,157,0.00329
+All,DPD 120+,5,DPD 31-60,2,124,0.002599
+All,DPD 120+,5,DPD 61-90,3,63,0.00132
+All,DPD 120+,5,DPD 91-120,4,83,0.001739
+All,DPD 120+,5,DPD 120+,5,44837,0.939664
+Car loan,Current,0,Closed,-1,6062,0.036818
+Car loan,Current,0,Current,0,155317,0.943333
+Car loan,Current,0,DPD 1-30,1,3062,0.018597
+Car loan,Current,0,DPD 31-60,2,163,0.00099
+Car loan,Current,0,DPD 61-90,3,7,4.3e-05
+Car loan,Current,0,DPD 91-120,4,1,6e-06
+Car loan,Current,0,DPD 120+,5,35,0.000213
+Car loan,DPD 1-30,1,Closed,-1,318,0.06603
+Car loan,DPD 1-30,1,Current,0,2499,0.518895
+Car loan,DPD 1-30,1,DPD 1-30,1,1723,0.357766
+Car loan,DPD 1-30,1,DPD 31-60,2,264,0.054817
+Car loan,DPD 1-30,1,DPD 61-90,3,9,0.001869
+Car loan,DPD 1-30,1,DPD 120+,5,3,0.000623
+Car loan,DPD 31-60,2,Closed,-1,25,0.04529
+Car loan,DPD 31-60,2,Current,0,164,0.297101
+Car loan,DPD 31-60,2,DPD 1-30,1,79,0.143116
+Car loan,DPD 31-60,2,DPD 31-60,2,100,0.181159
+Car loan,DPD 31-60,2,DPD 61-90,3,182,0.32971
+Car loan,DPD 31-60,2,DPD 91-120,4,2,0.003623
+Car loan,DPD 61-90,3,Closed,-1,11,0.041667
+Car loan,DPD 61-90,3,Current,0,28,0.106061
+Car loan,DPD 61-90,3,DPD 1-30,1,15,0.056818
+Car loan,DPD 61-90,3,DPD 31-60,2,15,0.056818
+Car loan,DPD 61-90,3,DPD 61-90,3,57,0.215909
+Car loan,DPD 61-90,3,DPD 91-120,4,135,0.511364
+Car loan,DPD 61-90,3,DPD 120+,5,3,0.011364
+Car loan,DPD 91-120,4,Closed,-1,3,0.01875
+Car loan,DPD 91-120,4,Current,0,11,0.06875
+Car loan,DPD 91-120,4,DPD 1-30,1,3,0.01875
+Car loan,DPD 91-120,4,DPD 31-60,2,4,0.025
+Car loan,DPD 91-120,4,DPD 61-90,3,7,0.04375
+Car loan,DPD 91-120,4,DPD 91-120,4,18,0.1125
+Car loan,DPD 91-120,4,DPD 120+,5,114,0.7125
+Car loan,DPD 120+,5,Closed,-1,41,0.02051
+Car loan,DPD 120+,5,Current,0,37,0.018509
+Car loan,DPD 120+,5,DPD 1-30,1,4,0.002001
+Car loan,DPD 120+,5,DPD 31-60,2,9,0.004502
+Car loan,DPD 120+,5,DPD 61-90,3,3,0.001501
+Car loan,DPD 120+,5,DPD 91-120,4,4,0.002001
+Car loan,DPD 120+,5,DPD 120+,5,1901,0.950975
+Consumer credit,Current,0,Closed,-1,278841,0.061249
+Consumer credit,Current,0,Current,0,4172837,0.916583
+Consumer credit,Current,0,DPD 1-30,1,97890,0.021502
+Consumer credit,Current,0,DPD 31-60,2,2348,0.000516
+Consumer credit,Current,0,DPD 61-90,3,155,3.4e-05
+Consumer credit,Current,0,DPD 91-120,4,21,5e-06
+Consumer credit,Current,0,DPD 120+,5,510,0.000112
+Consumer credit,DPD 1-30,1,Closed,-1,14856,0.096742
+Consumer credit,DPD 1-30,1,Current,0,74183,0.483079
+Consumer credit,DPD 1-30,1,DPD 1-30,1,54925,0.357671
+Consumer credit,DPD 1-30,1,DPD 31-60,2,9416,0.061317
+Consumer credit,DPD 1-30,1,DPD 61-90,3,142,0.000925
+Consumer credit,DPD 1-30,1,DPD 91-120,4,1,7e-06
+Consumer credit,DPD 1-30,1,DPD 120+,5,40,0.00026
+Consumer credit,DPD 31-60,2,Closed,-1,1233,0.082151
+Consumer credit,DPD 31-60,2,Current,0,3703,0.246719
+Consumer credit,DPD 31-60,2,DPD 1-30,1,2279,0.151842
+Consumer credit,DPD 31-60,2,DPD 31-60,2,2884,0.192151
+Consumer credit,DPD 31-60,2,DPD 61-90,3,4795,0.319475
+Consumer credit,DPD 31-60,2,DPD 91-120,4,103,0.006863
+Consumer credit,DPD 31-60,2,DPD 120+,5,12,0.0008
+Consumer credit,DPD 61-90,3,Closed,-1,477,0.080861
+Consumer credit,DPD 61-90,3,Current,0,707,0.119851
+Consumer credit,DPD 61-90,3,DPD 1-30,1,331,0.056111
+Consumer credit,DPD 61-90,3,DPD 31-60,2,312,0.05289
+Consumer credit,DPD 61-90,3,DPD 61-90,3,717,0.121546
+Consumer credit,DPD 61-90,3,DPD 91-120,4,3270,0.554331
+Consumer credit,DPD 61-90,3,DPD 120+,5,85,0.014409
+Consumer credit,DPD 91-120,4,Closed,-1,325,0.085888
+Consumer credit,DPD 91-120,4,Current,0,271,0.071617
+Consumer credit,DPD 91-120,4,DPD 1-30,1,104,0.027484
+Consumer credit,DPD 91-120,4,DPD 31-60,2,76,0.020085
+Consumer credit,DPD 91-120,4,DPD 61-90,3,93,0.024577
+Consumer credit,DPD 91-120,4,DPD 91-120,4,328,0.086681
+Consumer credit,DPD 91-120,4,DPD 120+,5,2587,0.683668
+Consumer credit,DPD 120+,5,Closed,-1,1228,0.0331
+Consumer credit,DPD 120+,5,Current,0,751,0.020243
+Consumer credit,DPD 120+,5,DPD 1-30,1,126,0.003396
+Consumer credit,DPD 120+,5,DPD 31-60,2,94,0.002534
+Consumer credit,DPD 120+,5,DPD 61-90,3,49,0.001321
+Consumer credit,DPD 120+,5,DPD 91-120,4,73,0.001968
+Consumer credit,DPD 120+,5,DPD 120+,5,34779,0.937439
+Credit card,Current,0,Closed,-1,52637,0.03123
+Credit card,Current,0,Current,0,1596239,0.947078
+Credit card,Current,0,DPD 1-30,1,35688,0.021174
+Credit card,Current,0,DPD 31-60,2,630,0.000374
+Credit card,Current,0,DPD 61-90,3,40,2.4e-05
+Credit card,Current,0,DPD 91-120,4,8,5e-06
+Credit card,Current,0,DPD 120+,5,194,0.000115
+Credit card,DPD 1-30,1,Closed,-1,2962,0.054028
+Credit card,DPD 1-30,1,Current,0,29726,0.542218
+Credit card,DPD 1-30,1,DPD 1-30,1,19389,0.353665
+Credit card,DPD 1-30,1,DPD 31-60,2,2686,0.048994
+Credit card,DPD 1-30,1,DPD 61-90,3,50,0.000912
+Credit card,DPD 1-30,1,DPD 91-120,4,1,1.8e-05
+Credit card,DPD 1-30,1,DPD 120+,5,9,0.000164
+Credit card,DPD 31-60,2,Closed,-1,239,0.059855
+Credit card,DPD 31-60,2,Current,0,1300,0.32557
+Credit card,DPD 31-60,2,DPD 1-30,1,663,0.166041
+Credit card,DPD 31-60,2,DPD 31-60,2,700,0.175307
+Credit card,DPD 31-60,2,DPD 61-90,3,1060,0.265465
+Credit card,DPD 31-60,2,DPD 91-120,4,25,0.006261
+Credit card,DPD 31-60,2,DPD 120+,5,6,0.001503
+Credit card,DPD 61-90,3,Closed,-1,88,0.069401
+Credit card,DPD 61-90,3,Current,0,221,0.17429
+Credit card,DPD 61-90,3,DPD 1-30,1,96,0.07571
+Credit card,DPD 61-90,3,DPD 31-60,2,57,0.044953
+Credit card,DPD 61-90,3,DPD 61-90,3,129,0.101735
+Credit card,DPD 61-90,3,DPD 91-120,4,660,0.520505
+Credit card,DPD 61-90,3,DPD 120+,5,17,0.013407
+Credit card,DPD 91-120,4,Closed,-1,49,0.068724
+Credit card,DPD 91-120,4,Current,0,53,0.074334
+Credit card,DPD 91-120,4,DPD 1-30,1,27,0.037868
+Credit card,DPD 91-120,4,DPD 31-60,2,13,0.018233
+Credit card,DPD 91-120,4,DPD 61-90,3,12,0.01683
+Credit card,DPD 91-120,4,DPD 91-120,4,40,0.056101
+Credit card,DPD 91-120,4,DPD 120+,5,519,0.72791
+Credit card,DPD 120+,5,Closed,-1,202,0.02707
+Credit card,DPD 120+,5,Current,0,134,0.017958
+Credit card,DPD 120+,5,DPD 1-30,1,27,0.003618
+Credit card,DPD 120+,5,DPD 31-60,2,21,0.002814
+Credit card,DPD 120+,5,DPD 61-90,3,11,0.001474
+Credit card,DPD 120+,5,DPD 91-120,4,6,0.000804
+Credit card,DPD 120+,5,DPD 120+,5,7061,0.946261
+Microloan,Current,0,Closed,-1,1053,0.082524
+Microloan,Current,0,Current,0,11449,0.897257
+Microloan,Current,0,DPD 1-30,1,252,0.019749
+Microloan,Current,0,DPD 31-60,2,4,0.000313
+Microloan,Current,0,DPD 120+,5,2,0.000157
+Microloan,DPD 1-30,1,Closed,-1,65,0.171958
+Microloan,DPD 1-30,1,Current,0,164,0.433862
+Microloan,DPD 1-30,1,DPD 1-30,1,132,0.349206
+Microloan,DPD 1-30,1,DPD 31-60,2,17,0.044974
+Microloan,DPD 31-60,2,Closed,-1,3,0.130435
+Microloan,DPD 31-60,2,Current,0,6,0.26087
+Microloan,DPD 31-60,2,DPD 1-30,1,3,0.130435
+Microloan,DPD 31-60,2,DPD 31-60,2,5,0.217391
+Microloan,DPD 31-60,2,DPD 61-90,3,6,0.26087
+Microloan,DPD 61-90,3,DPD 61-90,3,1,0.333333
+Microloan,DPD 61-90,3,DPD 91-120,4,2,0.666667
+Microloan,DPD 91-120,4,DPD 120+,5,2,1.0
+Microloan,DPD 120+,5,DPD 120+,5,16,1.0
+Mortgage,Current,0,Closed,-1,2461,0.030212
+Mortgage,Current,0,Current,0,77539,0.951878
+Mortgage,Current,0,DPD 1-30,1,1405,0.017248
+Mortgage,Current,0,DPD 31-60,2,36,0.000442
+Mortgage,Current,0,DPD 61-90,3,3,3.7e-05
+Mortgage,Current,0,DPD 91-120,4,1,1.2e-05
+Mortgage,Current,0,DPD 120+,5,14,0.000172
+Mortgage,DPD 1-30,1,Closed,-1,153,0.074817
+Mortgage,DPD 1-30,1,Current,0,1130,0.552567
+Mortgage,DPD 1-30,1,DPD 1-30,1,680,0.332518
+Mortgage,DPD 1-30,1,DPD 31-60,2,80,0.03912
+Mortgage,DPD 1-30,1,DPD 61-90,3,2,0.000978
+Mortgage,DPD 31-60,2,Closed,-1,10,0.069444
+Mortgage,DPD 31-60,2,Current,0,38,0.263889
+Mortgage,DPD 31-60,2,DPD 1-30,1,16,0.111111
+Mortgage,DPD 31-60,2,DPD 31-60,2,28,0.194444
+Mortgage,DPD 31-60,2,DPD 61-90,3,52,0.361111
+Mortgage,DPD 61-90,3,Closed,-1,4,0.064516
+Mortgage,DPD 61-90,3,Current,0,9,0.145161
+Mortgage,DPD 61-90,3,DPD 1-30,1,3,0.048387
+Mortgage,DPD 61-90,3,DPD 31-60,2,6,0.096774
+Mortgage,DPD 61-90,3,DPD 61-90,3,5,0.080645
+Mortgage,DPD 61-90,3,DPD 91-120,4,32,0.516129
+Mortgage,DPD 61-90,3,DPD 120+,5,3,0.048387
+Mortgage,DPD 91-120,4,Closed,-1,1,0.027027
+Mortgage,DPD 91-120,4,Current,0,4,0.108108
+Mortgage,DPD 91-120,4,DPD 91-120,4,2,0.054054
+Mortgage,DPD 91-120,4,DPD 120+,5,30,0.810811
+Mortgage,DPD 120+,5,Closed,-1,18,0.028986
+Mortgage,DPD 120+,5,Current,0,11,0.017713
+Mortgage,DPD 120+,5,DPD 120+,5,592,0.953301
+Other,Current,0,Closed,-1,876,0.036801
+Other,Current,0,Current,0,22478,0.944295
+Other,Current,0,DPD 1-30,1,435,0.018274
+Other,Current,0,DPD 31-60,2,6,0.000252
+Other,Current,0,DPD 120+,5,9,0.000378
+Other,DPD 1-30,1,Closed,-1,44,0.066265
+Other,DPD 1-30,1,Current,0,329,0.495482
+Other,DPD 1-30,1,DPD 1-30,1,237,0.356928
+Other,DPD 1-30,1,DPD 31-60,2,51,0.076807
+Other,DPD 1-30,1,DPD 61-90,3,1,0.001506
+Other,DPD 1-30,1,DPD 120+,5,2,0.003012
+Other,DPD 31-60,2,Closed,-1,1,0.015873
+Other,DPD 31-60,2,Current,0,12,0.190476
+Other,DPD 31-60,2,DPD 1-30,1,4,0.063492
+Other,DPD 31-60,2,DPD 31-60,2,7,0.111111
+Other,DPD 31-60,2,DPD 61-90,3,38,0.603175
+Other,DPD 31-60,2,DPD 91-120,4,1,0.015873
+Other,DPD 61-90,3,Current,0,2,0.04878
+Other,DPD 61-90,3,DPD 1-30,1,2,0.04878
+Other,DPD 61-90,3,DPD 31-60,2,1,0.02439
+Other,DPD 61-90,3,DPD 61-90,3,3,0.073171
+Other,DPD 61-90,3,DPD 91-120,4,33,0.804878
+Other,DPD 91-120,4,Closed,-1,14,0.241379
+Other,DPD 91-120,4,Current,0,5,0.086207
+Other,DPD 91-120,4,DPD 61-90,3,1,0.017241
+Other,DPD 91-120,4,DPD 91-120,4,6,0.103448
+Other,DPD 91-120,4,DPD 120+,5,32,0.551724
+Other,DPD 120+,5,Closed,-1,22,0.042471
+Other,DPD 120+,5,Current,0,8,0.015444
+Other,DPD 120+,5,DPD 120+,5,488,0.942085

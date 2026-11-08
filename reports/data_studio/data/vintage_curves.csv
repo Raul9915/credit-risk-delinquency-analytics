@@ -1,0 +1,2075 @@
+vintage_cohort,credit_type,months_on_book,n_at_risk,n_events,hazard,cumulative_default_rate,is_reliable
+0-1y before app,All,0,44717.0,7.0,0.000157,0.000157,1
+0-1y before app,All,1,96318.0,12.0,0.000125,0.000281,1
+0-1y before app,All,2,101902.0,7.0,6.9e-05,0.00035,1
+0-1y before app,All,3,94384.0,13.0,0.000138,0.000487,1
+0-1y before app,All,4,83668.0,32.0,0.000382,0.00087,1
+0-1y before app,All,5,71866.0,29.0,0.000404,0.001273,1
+0-1y before app,All,6,58592.0,28.0,0.000478,0.00175,1
+0-1y before app,All,7,45118.0,27.0,0.000598,0.002348,1
+0-1y before app,All,8,34129.0,18.0,0.000527,0.002874,1
+0-1y before app,All,9,24747.0,18.0,0.000727,0.003599,1
+0-1y before app,All,10,16130.0,13.0,0.000806,0.004402,1
+0-1y before app,All,11,8640.0,9.0,0.001042,0.005439,1
+0-1y before app,All,12,2861.0,2.0,0.000699,0.006134,1
+0-1y before app,All,13,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,14,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,15,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,16,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,17,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,18,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,19,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,20,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,21,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,22,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,23,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,24,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,25,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,26,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,27,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,28,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,29,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,30,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,31,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,32,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,33,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,34,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,35,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,36,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,37,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,38,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,39,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,40,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,41,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,42,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,43,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,44,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,45,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,46,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,47,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,48,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,49,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,50,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,51,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,52,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,53,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,54,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,55,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,56,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,57,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,58,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,59,0.0,0.0,0.0,0.006134,0
+0-1y before app,All,60,0.0,0.0,0.0,0.006134,0
+1-2y before app,All,0,47487.0,4.0,8.4e-05,8.4e-05,1
+1-2y before app,All,1,102119.0,8.0,7.8e-05,0.000163,1
+1-2y before app,All,2,115867.0,7.0,6e-05,0.000223,1
+1-2y before app,All,3,115236.0,11.0,9.5e-05,0.000318,1
+1-2y before app,All,4,110540.0,37.0,0.000335,0.000653,1
+1-2y before app,All,5,105072.0,45.0,0.000428,0.001081,1
+1-2y before app,All,6,96887.0,36.0,0.000372,0.001452,1
+1-2y before app,All,7,89345.0,44.0,0.000492,0.001944,1
+1-2y before app,All,8,84299.0,44.0,0.000522,0.002465,1
+1-2y before app,All,9,79529.0,74.0,0.00093,0.003393,1
+1-2y before app,All,10,73257.0,61.0,0.000833,0.004223,1
+1-2y before app,All,11,66846.0,46.0,0.000688,0.004908,1
+1-2y before app,All,12,58682.0,40.0,0.000682,0.005586,1
+1-2y before app,All,13,49693.0,37.0,0.000745,0.006327,1
+1-2y before app,All,14,42482.0,35.0,0.000824,0.007146,1
+1-2y before app,All,15,36456.0,37.0,0.001015,0.008153,1
+1-2y before app,All,16,31145.0,25.0,0.000803,0.008949,1
+1-2y before app,All,17,26073.0,11.0,0.000422,0.009367,1
+1-2y before app,All,18,21060.0,10.0,0.000475,0.009838,1
+1-2y before app,All,19,16532.0,11.0,0.000665,0.010497,1
+1-2y before app,All,20,12732.0,6.0,0.000471,0.010963,1
+1-2y before app,All,21,9302.0,6.0,0.000645,0.011601,1
+1-2y before app,All,22,6209.0,0.0,0.0,0.011601,1
+1-2y before app,All,23,3467.0,0.0,0.0,0.011601,1
+1-2y before app,All,24,1158.0,0.0,0.0,0.011601,1
+1-2y before app,All,25,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,26,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,27,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,28,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,29,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,30,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,31,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,32,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,33,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,34,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,35,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,36,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,37,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,38,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,39,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,40,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,41,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,42,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,43,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,44,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,45,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,46,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,47,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,48,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,49,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,50,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,51,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,52,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,53,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,54,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,55,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,56,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,57,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,58,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,59,0.0,0.0,0.0,0.011601,0
+1-2y before app,All,60,0.0,0.0,0.0,0.011601,0
+2-3y before app,All,0,39482.0,2.0,5.1e-05,5.1e-05,1
+2-3y before app,All,1,83066.0,6.0,7.2e-05,0.000123,1
+2-3y before app,All,2,93311.0,5.0,5.4e-05,0.000176,1
+2-3y before app,All,3,92702.0,5.0,5.4e-05,0.00023,1
+2-3y before app,All,4,89076.0,27.0,0.000303,0.000533,1
+2-3y before app,All,5,84681.0,23.0,0.000272,0.000805,1
+2-3y before app,All,6,77843.0,29.0,0.000373,0.001177,1
+2-3y before app,All,7,71400.0,22.0,0.000308,0.001485,1
+2-3y before app,All,8,67240.0,30.0,0.000446,0.00193,1
+2-3y before app,All,9,63435.0,57.0,0.000899,0.002827,1
+2-3y before app,All,10,58252.0,42.0,0.000721,0.003546,1
+2-3y before app,All,11,53067.0,24.0,0.000452,0.003997,1
+2-3y before app,All,12,46958.0,25.0,0.000532,0.004527,1
+2-3y before app,All,13,41817.0,33.0,0.000789,0.005313,1
+2-3y before app,All,14,39635.0,43.0,0.001085,0.006392,1
+2-3y before app,All,15,38025.0,21.0,0.000552,0.006941,1
+2-3y before app,All,16,36508.0,31.0,0.000849,0.007784,1
+2-3y before app,All,17,34969.0,15.0,0.000429,0.008209,1
+2-3y before app,All,18,33137.0,6.0,0.000181,0.008389,1
+2-3y before app,All,19,31472.0,16.0,0.000508,0.008893,1
+2-3y before app,All,20,30195.0,20.0,0.000662,0.00955,1
+2-3y before app,All,21,28941.0,10.0,0.000346,0.009892,1
+2-3y before app,All,22,27727.0,8.0,0.000289,0.010177,1
+2-3y before app,All,23,26219.0,13.0,0.000496,0.010668,1
+2-3y before app,All,24,23662.0,7.0,0.000296,0.010961,1
+2-3y before app,All,25,20659.0,5.0,0.000242,0.0112,1
+2-3y before app,All,26,17836.0,3.0,0.000168,0.011367,1
+2-3y before app,All,27,15459.0,5.0,0.000323,0.011686,1
+2-3y before app,All,28,13300.0,10.0,0.000752,0.012429,1
+2-3y before app,All,29,11363.0,4.0,0.000352,0.012777,1
+2-3y before app,All,30,9508.0,5.0,0.000526,0.013296,1
+2-3y before app,All,31,7658.0,2.0,0.000261,0.013554,1
+2-3y before app,All,32,5967.0,2.0,0.000335,0.013885,1
+2-3y before app,All,33,4385.0,1.0,0.000228,0.014109,1
+2-3y before app,All,34,2984.0,4.0,0.00134,0.015431,1
+2-3y before app,All,35,1592.0,0.0,0.0,0.015431,1
+2-3y before app,All,36,543.0,0.0,0.0,0.015431,1
+2-3y before app,All,37,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,38,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,39,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,40,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,41,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,42,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,43,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,44,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,45,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,46,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,47,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,48,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,49,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,50,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,51,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,52,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,53,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,54,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,55,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,56,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,57,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,58,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,59,0.0,0.0,0.0,0.015431,0
+2-3y before app,All,60,0.0,0.0,0.0,0.015431,0
+3-5y before app,All,0,57363.0,7.0,0.000122,0.000122,1
+3-5y before app,All,1,125788.0,16.0,0.000127,0.000249,1
+3-5y before app,All,2,143778.0,12.0,8.3e-05,0.000333,1
+3-5y before app,All,3,143720.0,16.0,0.000111,0.000444,1
+3-5y before app,All,4,138688.0,61.0,0.00044,0.000884,1
+3-5y before app,All,5,132564.0,68.0,0.000513,0.001396,1
+3-5y before app,All,6,121480.0,78.0,0.000642,0.002037,1
+3-5y before app,All,7,111023.0,83.0,0.000748,0.002783,1
+3-5y before app,All,8,105190.0,87.0,0.000827,0.003608,1
+3-5y before app,All,9,99447.0,131.0,0.001317,0.004921,1
+3-5y before app,All,10,90997.0,118.0,0.001297,0.006211,1
+3-5y before app,All,11,82157.0,64.0,0.000779,0.006985,1
+3-5y before app,All,12,72293.0,70.0,0.000968,0.007947,1
+3-5y before app,All,13,64242.0,79.0,0.00123,0.009167,1
+3-5y before app,All,14,60868.0,74.0,0.001216,0.010371,1
+3-5y before app,All,15,58439.0,72.0,0.001232,0.011591,1
+3-5y before app,All,16,56034.0,55.0,0.000982,0.012561,1
+3-5y before app,All,17,53535.0,22.0,0.000411,0.012966,1
+3-5y before app,All,18,50605.0,16.0,0.000316,0.013279,1
+3-5y before app,All,19,47989.0,31.0,0.000646,0.013916,1
+3-5y before app,All,20,46010.0,28.0,0.000609,0.014516,1
+3-5y before app,All,21,44192.0,15.0,0.000339,0.014851,1
+3-5y before app,All,22,42567.0,12.0,0.000282,0.015128,1
+3-5y before app,All,23,40461.0,19.0,0.00047,0.015591,1
+3-5y before app,All,24,36969.0,15.0,0.000406,0.01599,1
+3-5y before app,All,25,34025.0,9.0,0.000265,0.01625,1
+3-5y before app,All,26,32737.0,13.0,0.000397,0.016641,1
+3-5y before app,All,27,31688.0,16.0,0.000505,0.017138,1
+3-5y before app,All,28,30726.0,9.0,0.000293,0.017426,1
+3-5y before app,All,29,29772.0,6.0,0.000202,0.017624,1
+3-5y before app,All,30,28836.0,13.0,0.000451,0.018066,1
+3-5y before app,All,31,27931.0,5.0,0.000179,0.018242,1
+3-5y before app,All,32,27001.0,8.0,0.000296,0.018533,1
+3-5y before app,All,33,26005.0,10.0,0.000385,0.01891,1
+3-5y before app,All,34,24973.0,6.0,0.00024,0.019146,1
+3-5y before app,All,35,23708.0,10.0,0.000422,0.01956,1
+3-5y before app,All,36,21463.0,10.0,0.000466,0.020017,1
+3-5y before app,All,37,19038.0,9.0,0.000473,0.02048,1
+3-5y before app,All,38,17139.0,3.0,0.000175,0.020651,1
+3-5y before app,All,39,15659.0,7.0,0.000447,0.021089,1
+3-5y before app,All,40,14248.0,7.0,0.000491,0.02157,1
+3-5y before app,All,41,12866.0,3.0,0.000233,0.021798,1
+3-5y before app,All,42,11485.0,5.0,0.000435,0.022224,1
+3-5y before app,All,43,10368.0,1.0,9.6e-05,0.022319,1
+3-5y before app,All,44,9316.0,4.0,0.000429,0.022738,1
+3-5y before app,All,45,8340.0,0.0,0.0,0.022738,1
+3-5y before app,All,46,7485.0,1.0,0.000134,0.022869,1
+3-5y before app,All,47,6571.0,5.0,0.000761,0.023612,1
+3-5y before app,All,48,5730.0,1.0,0.000175,0.023783,1
+3-5y before app,All,49,4944.0,0.0,0.0,0.023783,1
+3-5y before app,All,50,4249.0,0.0,0.0,0.023783,1
+3-5y before app,All,51,3662.0,0.0,0.0,0.023783,1
+3-5y before app,All,52,3166.0,2.0,0.000632,0.024399,1
+3-5y before app,All,53,2684.0,0.0,0.0,0.024399,1
+3-5y before app,All,54,2222.0,1.0,0.00045,0.024839,1
+3-5y before app,All,55,1762.0,1.0,0.000568,0.025392,1
+3-5y before app,All,56,1341.0,1.0,0.000746,0.026119,1
+3-5y before app,All,57,964.0,0.0,0.0,0.026119,1
+3-5y before app,All,58,663.0,1.0,0.001508,0.027588,1
+3-5y before app,All,59,362.0,0.0,0.0,0.027588,1
+3-5y before app,All,60,110.0,0.0,0.0,0.027588,1
+5y+ before app,All,0,39527.0,12.0,0.000304,0.000304,1
+5y+ before app,All,1,89722.0,21.0,0.000234,0.000538,1
+5y+ before app,All,2,105152.0,15.0,0.000143,0.00068,1
+5y+ before app,All,3,104982.0,12.0,0.000114,0.000794,1
+5y+ before app,All,4,101457.0,67.0,0.00066,0.001454,1
+5y+ before app,All,5,96820.0,115.0,0.001188,0.00264,1
+5y+ before app,All,6,88443.0,138.0,0.00156,0.004196,1
+5y+ before app,All,7,80978.0,116.0,0.001432,0.005623,1
+5y+ before app,All,8,76618.0,133.0,0.001736,0.007349,1
+5y+ before app,All,9,72368.0,207.0,0.00286,0.010188,1
+5y+ before app,All,10,65043.0,200.0,0.003075,0.013232,1
+5y+ before app,All,11,57750.0,135.0,0.002338,0.015539,1
+5y+ before app,All,12,50298.0,124.0,0.002465,0.017966,1
+5y+ before app,All,13,44100.0,153.0,0.003469,0.021373,1
+5y+ before app,All,14,41738.0,131.0,0.003139,0.024444,1
+5y+ before app,All,15,40298.0,100.0,0.002482,0.026865,1
+5y+ before app,All,16,38975.0,101.0,0.002591,0.029387,1
+5y+ before app,All,17,37582.0,54.0,0.001437,0.030782,1
+5y+ before app,All,18,35873.0,52.0,0.00145,0.032187,1
+5y+ before app,All,19,34158.0,65.0,0.001903,0.034028,1
+5y+ before app,All,20,32957.0,44.0,0.001335,0.035318,1
+5y+ before app,All,21,31889.0,38.0,0.001192,0.036467,1
+5y+ before app,All,22,30808.0,49.0,0.00159,0.038,1
+5y+ before app,All,23,29438.0,47.0,0.001597,0.039536,1
+5y+ before app,All,24,27077.0,35.0,0.001293,0.040777,1
+5y+ before app,All,25,25135.0,43.0,0.001711,0.042418,1
+5y+ before app,All,26,24105.0,31.0,0.001286,0.04365,1
+5y+ before app,All,27,23253.0,27.0,0.001161,0.04476,1
+5y+ before app,All,28,22583.0,15.0,0.000664,0.045395,1
+5y+ before app,All,29,21902.0,31.0,0.001415,0.046746,1
+5y+ before app,All,30,21113.0,26.0,0.001231,0.04792,1
+5y+ before app,All,31,20483.0,17.0,0.00083,0.04871,1
+5y+ before app,All,32,19866.0,20.0,0.001007,0.049668,1
+5y+ before app,All,33,19241.0,23.0,0.001195,0.050804,1
+5y+ before app,All,34,18556.0,17.0,0.000916,0.051673,1
+5y+ before app,All,35,17670.0,15.0,0.000849,0.052478,1
+5y+ before app,All,36,16235.0,15.0,0.000924,0.053354,1
+5y+ before app,All,37,15078.0,14.0,0.000929,0.054233,1
+5y+ before app,All,38,14484.0,9.0,0.000621,0.05482,1
+5y+ before app,All,39,13976.0,11.0,0.000787,0.055564,1
+5y+ before app,All,40,13490.0,7.0,0.000519,0.056054,1
+5y+ before app,All,41,13014.0,11.0,0.000845,0.056852,1
+5y+ before app,All,42,12591.0,7.0,0.000556,0.057377,1
+5y+ before app,All,43,12179.0,6.0,0.000493,0.057841,1
+5y+ before app,All,44,11755.0,2.0,0.00017,0.058001,1
+5y+ before app,All,45,11272.0,3.0,0.000266,0.058252,1
+5y+ before app,All,46,10813.0,3.0,0.000277,0.058513,1
+5y+ before app,All,47,10420.0,8.0,0.000768,0.059236,1
+5y+ before app,All,48,10040.0,9.0,0.000896,0.060079,1
+5y+ before app,All,49,9613.0,3.0,0.000312,0.060373,1
+5y+ before app,All,50,9283.0,6.0,0.000646,0.06098,1
+5y+ before app,All,51,8987.0,1.0,0.000111,0.061085,1
+5y+ before app,All,52,8723.0,2.0,0.000229,0.0613,1
+5y+ before app,All,53,8487.0,3.0,0.000353,0.061632,1
+5y+ before app,All,54,8211.0,0.0,0.0,0.061632,1
+5y+ before app,All,55,7941.0,3.0,0.000378,0.061986,1
+5y+ before app,All,56,7676.0,0.0,0.0,0.061986,1
+5y+ before app,All,57,7379.0,1.0,0.000136,0.062113,1
+5y+ before app,All,58,7039.0,2.0,0.000284,0.06238,1
+5y+ before app,All,59,6548.0,1.0,0.000153,0.062523,1
+5y+ before app,All,60,5716.0,1.0,0.000175,0.062687,1
+0-1y before app,Car loan,0,433.0,0.0,0.0,0.0,1
+0-1y before app,Car loan,1,1024.0,0.0,0.0,0.0,1
+0-1y before app,Car loan,2,1201.0,1.0,0.000833,0.000833,1
+0-1y before app,Car loan,3,1171.0,1.0,0.000854,0.001686,1
+0-1y before app,Car loan,4,1086.0,0.0,0.0,0.001686,1
+0-1y before app,Car loan,5,985.0,0.0,0.0,0.001686,1
+0-1y before app,Car loan,6,882.0,0.0,0.0,0.001686,1
+0-1y before app,Car loan,7,742.0,0.0,0.0,0.001686,1
+0-1y before app,Car loan,8,593.0,0.0,0.0,0.001686,1
+0-1y before app,Car loan,9,453.0,0.0,0.0,0.001686,1
+0-1y before app,Car loan,10,346.0,0.0,0.0,0.001686,1
+0-1y before app,Car loan,11,224.0,1.0,0.004464,0.006143,1
+0-1y before app,Car loan,12,104.0,0.0,0.0,0.006143,1
+0-1y before app,Car loan,13,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,14,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,15,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,16,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,17,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,18,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,19,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,20,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,21,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,22,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,23,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,24,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,25,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,26,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,27,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,28,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,29,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,30,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,31,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,32,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,33,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,34,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,35,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,36,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,37,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,38,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,39,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,40,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,41,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,42,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,43,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,44,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,45,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,46,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,47,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,48,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,49,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,50,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,51,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,52,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,53,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,54,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,55,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,56,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,57,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,58,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,59,0.0,0.0,0.0,0.006143,0
+0-1y before app,Car loan,60,0.0,0.0,0.0,0.006143,0
+1-2y before app,Car loan,0,743.0,0.0,0.0,0.0,1
+1-2y before app,Car loan,1,1728.0,1.0,0.000579,0.000579,1
+1-2y before app,Car loan,2,2066.0,1.0,0.000484,0.001062,1
+1-2y before app,Car loan,3,2049.0,0.0,0.0,0.001062,1
+1-2y before app,Car loan,4,1995.0,0.0,0.0,0.001062,1
+1-2y before app,Car loan,5,1931.0,1.0,0.000518,0.00158,1
+1-2y before app,Car loan,6,1848.0,1.0,0.000541,0.00212,1
+1-2y before app,Car loan,7,1743.0,2.0,0.001147,0.003265,1
+1-2y before app,Car loan,8,1667.0,0.0,0.0,0.003265,1
+1-2y before app,Car loan,9,1597.0,6.0,0.003757,0.00701,1
+1-2y before app,Car loan,10,1514.0,1.0,0.000661,0.007666,1
+1-2y before app,Car loan,11,1434.0,0.0,0.0,0.007666,1
+1-2y before app,Car loan,12,1321.0,3.0,0.002271,0.009919,1
+1-2y before app,Car loan,13,1162.0,2.0,0.001721,0.011623,1
+1-2y before app,Car loan,14,1030.0,0.0,0.0,0.011623,1
+1-2y before app,Car loan,15,920.0,0.0,0.0,0.011623,1
+1-2y before app,Car loan,16,819.0,1.0,0.001221,0.01283,1
+1-2y before app,Car loan,17,702.0,0.0,0.0,0.01283,1
+1-2y before app,Car loan,18,581.0,0.0,0.0,0.01283,1
+1-2y before app,Car loan,19,483.0,0.0,0.0,0.01283,1
+1-2y before app,Car loan,20,402.0,0.0,0.0,0.01283,1
+1-2y before app,Car loan,21,316.0,1.0,0.003165,0.015954,1
+1-2y before app,Car loan,22,231.0,0.0,0.0,0.015954,1
+1-2y before app,Car loan,23,145.0,0.0,0.0,0.015954,1
+1-2y before app,Car loan,24,55.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,25,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,26,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,27,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,28,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,29,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,30,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,31,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,32,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,33,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,34,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,35,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,36,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,37,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,38,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,39,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,40,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,41,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,42,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,43,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,44,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,45,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,46,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,47,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,48,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,49,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,50,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,51,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,52,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,53,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,54,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,55,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,56,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,57,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,58,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,59,0.0,0.0,0.0,0.015954,0
+1-2y before app,Car loan,60,0.0,0.0,0.0,0.015954,0
+2-3y before app,Car loan,0,642.0,0.0,0.0,0.0,1
+2-3y before app,Car loan,1,1505.0,1.0,0.000664,0.000664,1
+2-3y before app,Car loan,2,1768.0,0.0,0.0,0.000664,1
+2-3y before app,Car loan,3,1775.0,0.0,0.0,0.000664,1
+2-3y before app,Car loan,4,1739.0,0.0,0.0,0.000664,1
+2-3y before app,Car loan,5,1696.0,1.0,0.00059,0.001254,1
+2-3y before app,Car loan,6,1616.0,2.0,0.001238,0.00249,1
+2-3y before app,Car loan,7,1527.0,0.0,0.0,0.00249,1
+2-3y before app,Car loan,8,1447.0,1.0,0.000691,0.003179,1
+2-3y before app,Car loan,9,1386.0,0.0,0.0,0.003179,1
+2-3y before app,Car loan,10,1307.0,1.0,0.000765,0.003942,1
+2-3y before app,Car loan,11,1242.0,0.0,0.0,0.003942,1
+2-3y before app,Car loan,12,1132.0,1.0,0.000883,0.004822,1
+2-3y before app,Car loan,13,1046.0,2.0,0.001912,0.006725,1
+2-3y before app,Car loan,14,998.0,3.0,0.003006,0.00971,1
+2-3y before app,Car loan,15,963.0,0.0,0.0,0.00971,1
+2-3y before app,Car loan,16,939.0,0.0,0.0,0.00971,1
+2-3y before app,Car loan,17,908.0,0.0,0.0,0.00971,1
+2-3y before app,Car loan,18,871.0,0.0,0.0,0.00971,1
+2-3y before app,Car loan,19,845.0,0.0,0.0,0.00971,1
+2-3y before app,Car loan,20,825.0,0.0,0.0,0.00971,1
+2-3y before app,Car loan,21,795.0,1.0,0.001258,0.010956,1
+2-3y before app,Car loan,22,762.0,1.0,0.001312,0.012254,1
+2-3y before app,Car loan,23,716.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,24,661.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,25,585.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,26,509.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,27,445.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,28,375.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,29,326.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,30,272.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,31,211.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,32,173.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,33,137.0,0.0,0.0,0.012254,1
+2-3y before app,Car loan,34,95.0,2.0,0.021053,0.033049,0
+2-3y before app,Car loan,35,61.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,36,25.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,37,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,38,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,39,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,40,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,41,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,42,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,43,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,44,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,45,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,46,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,47,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,48,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,49,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,50,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,51,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,52,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,53,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,54,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,55,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,56,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,57,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,58,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,59,0.0,0.0,0.0,0.033049,0
+2-3y before app,Car loan,60,0.0,0.0,0.0,0.033049,0
+3-5y before app,Car loan,0,809.0,2.0,0.002472,0.002472,1
+3-5y before app,Car loan,1,1893.0,0.0,0.0,0.002472,1
+3-5y before app,Car loan,2,2268.0,1.0,0.000441,0.002912,1
+3-5y before app,Car loan,3,2285.0,2.0,0.000875,0.003785,1
+3-5y before app,Car loan,4,2242.0,1.0,0.000446,0.004229,1
+3-5y before app,Car loan,5,2199.0,2.0,0.00091,0.005135,1
+3-5y before app,Car loan,6,2122.0,0.0,0.0,0.005135,1
+3-5y before app,Car loan,7,2037.0,1.0,0.000491,0.005623,1
+3-5y before app,Car loan,8,1983.0,3.0,0.001513,0.007127,1
+3-5y before app,Car loan,9,1921.0,1.0,0.000521,0.007644,1
+3-5y before app,Car loan,10,1819.0,3.0,0.001649,0.009281,1
+3-5y before app,Car loan,11,1721.0,0.0,0.0,0.009281,1
+3-5y before app,Car loan,12,1620.0,0.0,0.0,0.009281,1
+3-5y before app,Car loan,13,1553.0,2.0,0.001288,0.010557,1
+3-5y before app,Car loan,14,1498.0,2.0,0.001335,0.011878,1
+3-5y before app,Car loan,15,1455.0,3.0,0.002062,0.013915,1
+3-5y before app,Car loan,16,1416.0,1.0,0.000706,0.014612,1
+3-5y before app,Car loan,17,1369.0,0.0,0.0,0.014612,1
+3-5y before app,Car loan,18,1305.0,0.0,0.0,0.014612,1
+3-5y before app,Car loan,19,1271.0,0.0,0.0,0.014612,1
+3-5y before app,Car loan,20,1236.0,0.0,0.0,0.014612,1
+3-5y before app,Car loan,21,1191.0,0.0,0.0,0.014612,1
+3-5y before app,Car loan,22,1152.0,0.0,0.0,0.014612,1
+3-5y before app,Car loan,23,1110.0,0.0,0.0,0.014612,1
+3-5y before app,Car loan,24,1035.0,0.0,0.0,0.014612,1
+3-5y before app,Car loan,25,952.0,0.0,0.0,0.014612,1
+3-5y before app,Car loan,26,911.0,1.0,0.001098,0.015693,1
+3-5y before app,Car loan,27,881.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,28,848.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,29,828.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,30,804.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,31,775.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,32,749.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,33,712.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,34,659.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,35,601.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,36,500.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,37,396.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,38,325.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,39,302.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,40,261.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,41,233.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,42,200.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,43,178.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,44,153.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,45,131.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,46,116.0,0.0,0.0,0.015693,1
+3-5y before app,Car loan,47,98.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,48,83.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,49,67.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,50,54.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,51,47.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,52,41.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,53,33.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,54,28.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,55,23.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,56,19.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,57,11.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,58,7.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,59,4.0,0.0,0.0,0.015693,0
+3-5y before app,Car loan,60,1.0,0.0,0.0,0.015693,0
+5y+ before app,Car loan,0,812.0,0.0,0.0,0.0,1
+5y+ before app,Car loan,1,2025.0,0.0,0.0,0.0,1
+5y+ before app,Car loan,2,2558.0,0.0,0.0,0.0,1
+5y+ before app,Car loan,3,2603.0,0.0,0.0,0.0,1
+5y+ before app,Car loan,4,2572.0,1.0,0.000389,0.000389,1
+5y+ before app,Car loan,5,2495.0,2.0,0.000802,0.00119,1
+5y+ before app,Car loan,6,2379.0,4.0,0.001681,0.002869,1
+5y+ before app,Car loan,7,2265.0,1.0,0.000442,0.00331,1
+5y+ before app,Car loan,8,2182.0,3.0,0.001375,0.00468,1
+5y+ before app,Car loan,9,2098.0,6.0,0.00286,0.007527,1
+5y+ before app,Car loan,10,2011.0,10.0,0.004973,0.012462,1
+5y+ before app,Car loan,11,1914.0,4.0,0.00209,0.014526,1
+5y+ before app,Car loan,12,1805.0,3.0,0.001662,0.016163,1
+5y+ before app,Car loan,13,1705.0,3.0,0.00176,0.017895,1
+5y+ before app,Car loan,14,1650.0,8.0,0.004848,0.022656,1
+5y+ before app,Car loan,15,1606.0,7.0,0.004359,0.026916,1
+5y+ before app,Car loan,16,1555.0,2.0,0.001286,0.028168,1
+5y+ before app,Car loan,17,1505.0,3.0,0.001993,0.030105,1
+5y+ before app,Car loan,18,1465.0,3.0,0.002048,0.032091,1
+5y+ before app,Car loan,19,1419.0,4.0,0.002819,0.03482,1
+5y+ before app,Car loan,20,1387.0,1.0,0.000721,0.035515,1
+5y+ before app,Car loan,21,1344.0,2.0,0.001488,0.036951,1
+5y+ before app,Car loan,22,1304.0,4.0,0.003067,0.039905,1
+5y+ before app,Car loan,23,1264.0,0.0,0.0,0.039905,1
+5y+ before app,Car loan,24,1206.0,1.0,0.000829,0.040701,1
+5y+ before app,Car loan,25,1124.0,2.0,0.001779,0.042408,1
+5y+ before app,Car loan,26,1080.0,2.0,0.001852,0.044181,1
+5y+ before app,Car loan,27,1049.0,1.0,0.000953,0.045092,1
+5y+ before app,Car loan,28,1019.0,3.0,0.002944,0.047904,1
+5y+ before app,Car loan,29,1003.0,3.0,0.002991,0.050751,1
+5y+ before app,Car loan,30,969.0,4.0,0.004128,0.05467,1
+5y+ before app,Car loan,31,942.0,0.0,0.0,0.05467,1
+5y+ before app,Car loan,32,913.0,3.0,0.003286,0.057776,1
+5y+ before app,Car loan,33,888.0,1.0,0.001126,0.058837,1
+5y+ before app,Car loan,34,861.0,0.0,0.0,0.058837,1
+5y+ before app,Car loan,35,799.0,3.0,0.003755,0.062371,1
+5y+ before app,Car loan,36,729.0,1.0,0.001372,0.063657,1
+5y+ before app,Car loan,37,670.0,1.0,0.001493,0.065055,1
+5y+ before app,Car loan,38,634.0,0.0,0.0,0.065055,1
+5y+ before app,Car loan,39,619.0,1.0,0.001616,0.066565,1
+5y+ before app,Car loan,40,591.0,2.0,0.003384,0.069724,1
+5y+ before app,Car loan,41,578.0,1.0,0.00173,0.071333,1
+5y+ before app,Car loan,42,557.0,0.0,0.0,0.071333,1
+5y+ before app,Car loan,43,527.0,1.0,0.001898,0.073096,1
+5y+ before app,Car loan,44,510.0,0.0,0.0,0.073096,1
+5y+ before app,Car loan,45,479.0,0.0,0.0,0.073096,1
+5y+ before app,Car loan,46,460.0,0.0,0.0,0.073096,1
+5y+ before app,Car loan,47,428.0,0.0,0.0,0.073096,1
+5y+ before app,Car loan,48,392.0,0.0,0.0,0.073096,1
+5y+ before app,Car loan,49,368.0,0.0,0.0,0.073096,1
+5y+ before app,Car loan,50,352.0,0.0,0.0,0.073096,1
+5y+ before app,Car loan,51,339.0,0.0,0.0,0.073096,1
+5y+ before app,Car loan,52,329.0,1.0,0.00304,0.075913,1
+5y+ before app,Car loan,53,311.0,1.0,0.003215,0.078884,1
+5y+ before app,Car loan,54,295.0,0.0,0.0,0.078884,1
+5y+ before app,Car loan,55,282.0,0.0,0.0,0.078884,1
+5y+ before app,Car loan,56,261.0,0.0,0.0,0.078884,1
+5y+ before app,Car loan,57,249.0,0.0,0.0,0.078884,1
+5y+ before app,Car loan,58,224.0,0.0,0.0,0.078884,1
+5y+ before app,Car loan,59,200.0,0.0,0.0,0.078884,1
+5y+ before app,Car loan,60,135.0,0.0,0.0,0.078884,1
+0-1y before app,Consumer credit,0,31823.0,4.0,0.000126,0.000126,1
+0-1y before app,Consumer credit,1,67656.0,7.0,0.000103,0.000229,1
+0-1y before app,Consumer credit,2,70835.0,3.0,4.2e-05,0.000271,1
+0-1y before app,Consumer credit,3,65213.0,6.0,9.2e-05,0.000363,1
+0-1y before app,Consumer credit,4,57695.0,17.0,0.000295,0.000658,1
+0-1y before app,Consumer credit,5,49565.0,16.0,0.000323,0.000981,1
+0-1y before app,Consumer credit,6,40220.0,14.0,0.000348,0.001328,1
+0-1y before app,Consumer credit,7,30761.0,13.0,0.000423,0.00175,1
+0-1y before app,Consumer credit,8,23266.0,9.0,0.000387,0.002137,1
+0-1y before app,Consumer credit,9,16862.0,15.0,0.00089,0.003024,1
+0-1y before app,Consumer credit,10,10917.0,6.0,0.00055,0.003572,1
+0-1y before app,Consumer credit,11,5773.0,3.0,0.00052,0.00409,1
+0-1y before app,Consumer credit,12,1887.0,2.0,0.00106,0.005146,1
+0-1y before app,Consumer credit,13,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,14,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,15,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,16,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,17,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,18,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,19,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,20,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,21,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,22,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,23,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,24,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,25,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,26,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,27,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,28,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,29,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,30,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,31,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,32,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,33,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,34,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,35,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,36,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,37,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,38,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,39,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,40,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,41,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,42,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,43,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,44,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,45,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,46,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,47,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,48,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,49,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,50,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,51,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,52,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,53,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,54,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,55,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,56,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,57,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,58,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,59,0.0,0.0,0.0,0.005146,0
+0-1y before app,Consumer credit,60,0.0,0.0,0.0,0.005146,0
+1-2y before app,Consumer credit,0,34311.0,4.0,0.000117,0.000117,1
+1-2y before app,Consumer credit,1,72679.0,6.0,8.3e-05,0.000199,1
+1-2y before app,Consumer credit,2,80826.0,4.0,4.9e-05,0.000249,1
+1-2y before app,Consumer credit,3,79413.0,4.0,5e-05,0.000299,1
+1-2y before app,Consumer credit,4,75419.0,28.0,0.000371,0.00067,1
+1-2y before app,Consumer credit,5,70945.0,32.0,0.000451,0.001121,1
+1-2y before app,Consumer credit,6,64413.0,20.0,0.00031,0.001431,1
+1-2y before app,Consumer credit,7,58526.0,27.0,0.000461,0.001892,1
+1-2y before app,Consumer credit,8,54748.0,30.0,0.000548,0.002439,1
+1-2y before app,Consumer credit,9,51254.0,43.0,0.000839,0.003276,1
+1-2y before app,Consumer credit,10,46700.0,42.0,0.000899,0.004172,1
+1-2y before app,Consumer credit,11,42047.0,32.0,0.000761,0.00493,1
+1-2y before app,Consumer credit,12,35988.0,21.0,0.000584,0.00551,1
+1-2y before app,Consumer credit,13,29744.0,19.0,0.000639,0.006146,1
+1-2y before app,Consumer credit,14,25177.0,25.0,0.000993,0.007133,1
+1-2y before app,Consumer credit,15,21499.0,23.0,0.00107,0.008195,1
+1-2y before app,Consumer credit,16,18391.0,15.0,0.000816,0.009004,1
+1-2y before app,Consumer credit,17,15391.0,4.0,0.00026,0.009261,1
+1-2y before app,Consumer credit,18,12329.0,6.0,0.000487,0.009743,1
+1-2y before app,Consumer credit,19,9635.0,10.0,0.001038,0.010771,1
+1-2y before app,Consumer credit,20,7384.0,3.0,0.000406,0.011173,1
+1-2y before app,Consumer credit,21,5437.0,2.0,0.000368,0.011537,1
+1-2y before app,Consumer credit,22,3593.0,0.0,0.0,0.011537,1
+1-2y before app,Consumer credit,23,1985.0,0.0,0.0,0.011537,1
+1-2y before app,Consumer credit,24,636.0,0.0,0.0,0.011537,1
+1-2y before app,Consumer credit,25,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,26,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,27,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,28,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,29,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,30,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,31,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,32,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,33,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,34,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,35,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,36,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,37,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,38,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,39,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,40,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,41,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,42,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,43,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,44,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,45,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,46,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,47,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,48,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,49,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,50,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,51,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,52,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,53,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,54,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,55,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,56,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,57,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,58,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,59,0.0,0.0,0.0,0.011537,0
+1-2y before app,Consumer credit,60,0.0,0.0,0.0,0.011537,0
+2-3y before app,Consumer credit,0,29712.0,2.0,6.7e-05,6.7e-05,1
+2-3y before app,Consumer credit,1,61536.0,4.0,6.5e-05,0.000132,1
+2-3y before app,Consumer credit,2,68345.0,3.0,4.4e-05,0.000176,1
+2-3y before app,Consumer credit,3,67052.0,3.0,4.5e-05,0.000221,1
+2-3y before app,Consumer credit,4,63622.0,20.0,0.000314,0.000535,1
+2-3y before app,Consumer credit,5,59744.0,14.0,0.000234,0.000769,1
+2-3y before app,Consumer credit,6,53920.0,15.0,0.000278,0.001047,1
+2-3y before app,Consumer credit,7,48495.0,15.0,0.000309,0.001356,1
+2-3y before app,Consumer credit,8,45097.0,23.0,0.00051,0.001866,1
+2-3y before app,Consumer credit,9,41996.0,40.0,0.000952,0.002816,1
+2-3y before app,Consumer credit,10,37810.0,29.0,0.000767,0.003581,1
+2-3y before app,Consumer credit,11,33603.0,15.0,0.000446,0.004026,1
+2-3y before app,Consumer credit,12,28603.0,19.0,0.000664,0.004688,1
+2-3y before app,Consumer credit,13,24473.0,18.0,0.000736,0.00542,1
+2-3y before app,Consumer credit,14,22839.0,31.0,0.001357,0.00677,1
+2-3y before app,Consumer credit,15,21706.0,13.0,0.000599,0.007365,1
+2-3y before app,Consumer credit,16,20628.0,20.0,0.00097,0.008327,1
+2-3y before app,Consumer credit,17,19524.0,9.0,0.000461,0.008784,1
+2-3y before app,Consumer credit,18,18184.0,4.0,0.00022,0.009002,1
+2-3y before app,Consumer credit,19,16964.0,9.0,0.000531,0.009528,1
+2-3y before app,Consumer credit,20,16100.0,12.0,0.000745,0.010266,1
+2-3y before app,Consumer credit,21,15317.0,5.0,0.000326,0.010589,1
+2-3y before app,Consumer credit,22,14604.0,5.0,0.000342,0.010928,1
+2-3y before app,Consumer credit,23,13719.0,6.0,0.000437,0.01136,1
+2-3y before app,Consumer credit,24,11990.0,5.0,0.000417,0.011773,1
+2-3y before app,Consumer credit,25,10150.0,3.0,0.000296,0.012065,1
+2-3y before app,Consumer credit,26,8662.0,2.0,0.000231,0.012293,1
+2-3y before app,Consumer credit,27,7471.0,2.0,0.000268,0.012557,1
+2-3y before app,Consumer credit,28,6437.0,8.0,0.001243,0.013785,1
+2-3y before app,Consumer credit,29,5534.0,2.0,0.000361,0.014141,1
+2-3y before app,Consumer credit,30,4689.0,2.0,0.000427,0.014562,1
+2-3y before app,Consumer credit,31,3868.0,2.0,0.000517,0.015071,1
+2-3y before app,Consumer credit,32,3076.0,1.0,0.000325,0.015391,1
+2-3y before app,Consumer credit,33,2295.0,0.0,0.0,0.015391,1
+2-3y before app,Consumer credit,34,1606.0,1.0,0.000623,0.016004,1
+2-3y before app,Consumer credit,35,830.0,0.0,0.0,0.016004,1
+2-3y before app,Consumer credit,36,280.0,0.0,0.0,0.016004,1
+2-3y before app,Consumer credit,37,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,38,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,39,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,40,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,41,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,42,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,43,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,44,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,45,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,46,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,47,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,48,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,49,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,50,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,51,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,52,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,53,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,54,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,55,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,56,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,57,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,58,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,59,0.0,0.0,0.0,0.016004,0
+2-3y before app,Consumer credit,60,0.0,0.0,0.0,0.016004,0
+3-5y before app,Consumer credit,0,47128.0,4.0,8.5e-05,8.5e-05,1
+3-5y before app,Consumer credit,1,102211.0,13.0,0.000127,0.000212,1
+3-5y before app,Consumer credit,2,115557.0,7.0,6.1e-05,0.000273,1
+3-5y before app,Consumer credit,3,114440.0,11.0,9.6e-05,0.000369,1
+3-5y before app,Consumer credit,4,109539.0,44.0,0.000402,0.00077,1
+3-5y before app,Consumer credit,5,103949.0,47.0,0.000452,0.001222,1
+3-5y before app,Consumer credit,6,93999.0,65.0,0.000691,0.001913,1
+3-5y before app,Consumer credit,7,84718.0,60.0,0.000708,0.00262,1
+3-5y before app,Consumer credit,8,79533.0,65.0,0.000817,0.003435,1
+3-5y before app,Consumer credit,9,74522.0,111.0,0.001489,0.004919,1
+3-5y before app,Consumer credit,10,67151.0,100.0,0.001489,0.006401,1
+3-5y before app,Consumer credit,11,59546.0,54.0,0.000907,0.007302,1
+3-5y before app,Consumer credit,12,51020.0,63.0,0.001235,0.008528,1
+3-5y before app,Consumer credit,13,44019.0,68.0,0.001545,0.010059,1
+3-5y before app,Consumer credit,14,41205.0,54.0,0.001311,0.011357,1
+3-5y before app,Consumer credit,15,39118.0,53.0,0.001355,0.012696,1
+3-5y before app,Consumer credit,16,37137.0,43.0,0.001158,0.013839,1
+3-5y before app,Consumer credit,17,35191.0,18.0,0.000511,0.014344,1
+3-5y before app,Consumer credit,18,32795.0,13.0,0.000396,0.014735,1
+3-5y before app,Consumer credit,19,30559.0,23.0,0.000753,0.015476,1
+3-5y before app,Consumer credit,20,28975.0,21.0,0.000725,0.01619,1
+3-5y before app,Consumer credit,21,27580.0,14.0,0.000508,0.016689,1
+3-5y before app,Consumer credit,22,26303.0,11.0,0.000418,0.0171,1
+3-5y before app,Consumer credit,23,24649.0,14.0,0.000568,0.017659,1
+3-5y before app,Consumer credit,24,21719.0,13.0,0.000599,0.018246,1
+3-5y before app,Consumer credit,25,19361.0,7.0,0.000362,0.018601,1
+3-5y before app,Consumer credit,26,18420.0,7.0,0.00038,0.018974,1
+3-5y before app,Consumer credit,27,17687.0,13.0,0.000735,0.019695,1
+3-5y before app,Consumer credit,28,17024.0,7.0,0.000411,0.020099,1
+3-5y before app,Consumer credit,29,16331.0,3.0,0.000184,0.020279,1
+3-5y before app,Consumer credit,30,15654.0,8.0,0.000511,0.020779,1
+3-5y before app,Consumer credit,31,15004.0,3.0,0.0002,0.020975,1
+3-5y before app,Consumer credit,32,14365.0,2.0,0.000139,0.021111,1
+3-5y before app,Consumer credit,33,13714.0,8.0,0.000583,0.021682,1
+3-5y before app,Consumer credit,34,13065.0,4.0,0.000306,0.021982,1
+3-5y before app,Consumer credit,35,12215.0,8.0,0.000655,0.022622,1
+3-5y before app,Consumer credit,36,10683.0,4.0,0.000374,0.022988,1
+3-5y before app,Consumer credit,37,9118.0,7.0,0.000768,0.023738,1
+3-5y before app,Consumer credit,38,8085.0,3.0,0.000371,0.024101,1
+3-5y before app,Consumer credit,39,7291.0,6.0,0.000823,0.024904,1
+3-5y before app,Consumer credit,40,6556.0,5.0,0.000763,0.025647,1
+3-5y before app,Consumer credit,41,5851.0,2.0,0.000342,0.025981,1
+3-5y before app,Consumer credit,42,5148.0,2.0,0.000389,0.026359,1
+3-5y before app,Consumer credit,43,4627.0,0.0,0.0,0.026359,1
+3-5y before app,Consumer credit,44,4127.0,1.0,0.000242,0.026595,1
+3-5y before app,Consumer credit,45,3664.0,0.0,0.0,0.026595,1
+3-5y before app,Consumer credit,46,3288.0,1.0,0.000304,0.026891,1
+3-5y before app,Consumer credit,47,2849.0,4.0,0.001404,0.028257,1
+3-5y before app,Consumer credit,48,2447.0,1.0,0.000409,0.028654,1
+3-5y before app,Consumer credit,49,2100.0,0.0,0.0,0.028654,1
+3-5y before app,Consumer credit,50,1783.0,0.0,0.0,0.028654,1
+3-5y before app,Consumer credit,51,1525.0,0.0,0.0,0.028654,1
+3-5y before app,Consumer credit,52,1296.0,1.0,0.000772,0.029404,1
+3-5y before app,Consumer credit,53,1083.0,0.0,0.0,0.029404,1
+3-5y before app,Consumer credit,54,899.0,1.0,0.001112,0.030483,1
+3-5y before app,Consumer credit,55,721.0,1.0,0.001387,0.031828,1
+3-5y before app,Consumer credit,56,552.0,1.0,0.001812,0.033582,1
+3-5y before app,Consumer credit,57,386.0,0.0,0.0,0.033582,1
+3-5y before app,Consumer credit,58,263.0,1.0,0.003802,0.037257,1
+3-5y before app,Consumer credit,59,134.0,0.0,0.0,0.037257,1
+3-5y before app,Consumer credit,60,40.0,0.0,0.0,0.037257,0
+5y+ before app,Consumer credit,0,32988.0,6.0,0.000182,0.000182,1
+5y+ before app,Consumer credit,1,74528.0,13.0,0.000174,0.000356,1
+5y+ before app,Consumer credit,2,87084.0,11.0,0.000126,0.000483,1
+5y+ before app,Consumer credit,3,86681.0,12.0,0.000138,0.000621,1
+5y+ before app,Consumer credit,4,83517.0,55.0,0.000659,0.001279,1
+5y+ before app,Consumer credit,5,79459.0,107.0,0.001347,0.002624,1
+5y+ before app,Consumer credit,6,72034.0,124.0,0.001721,0.004341,1
+5y+ before app,Consumer credit,7,65492.0,99.0,0.001512,0.005846,1
+5y+ before app,Consumer credit,8,61726.0,113.0,0.001831,0.007666,1
+5y+ before app,Consumer credit,9,58075.0,182.0,0.003134,0.010776,1
+5y+ before app,Consumer credit,10,51594.0,162.0,0.00314,0.013882,1
+5y+ before app,Consumer credit,11,45135.0,110.0,0.002437,0.016285,1
+5y+ before app,Consumer credit,12,38580.0,106.0,0.002748,0.018988,1
+5y+ before app,Consumer credit,13,33184.0,133.0,0.004008,0.02292,1
+5y+ before app,Consumer credit,14,31114.0,114.0,0.003664,0.0265,1
+5y+ before app,Consumer credit,15,29876.0,78.0,0.002611,0.029041,1
+5y+ before app,Consumer credit,16,28765.0,85.0,0.002955,0.03191,1
+5y+ before app,Consumer credit,17,27594.0,46.0,0.001667,0.033524,1
+5y+ before app,Consumer credit,18,26106.0,40.0,0.001532,0.035005,1
+5y+ before app,Consumer credit,19,24607.0,49.0,0.001991,0.036927,1
+5y+ before app,Consumer credit,20,23580.0,31.0,0.001315,0.038193,1
+5y+ before app,Consumer credit,21,22703.0,32.0,0.00141,0.039549,1
+5y+ before app,Consumer credit,22,21789.0,39.0,0.00179,0.041268,1
+5y+ before app,Consumer credit,23,20666.0,44.0,0.002129,0.043309,1
+5y+ before app,Consumer credit,24,18664.0,28.0,0.0015,0.044744,1
+5y+ before app,Consumer credit,25,17079.0,30.0,0.001757,0.046422,1
+5y+ before app,Consumer credit,26,16285.0,18.0,0.001105,0.047476,1
+5y+ before app,Consumer credit,27,15586.0,22.0,0.001412,0.048821,1
+5y+ before app,Consumer credit,28,14982.0,12.0,0.000801,0.049582,1
+5y+ before app,Consumer credit,29,14398.0,25.0,0.001736,0.051233,1
+5y+ before app,Consumer credit,30,13779.0,17.0,0.001234,0.052403,1
+5y+ before app,Consumer credit,31,13250.0,12.0,0.000906,0.053261,1
+5y+ before app,Consumer credit,32,12725.0,14.0,0.0011,0.054303,1
+5y+ before app,Consumer credit,33,12207.0,13.0,0.001065,0.05531,1
+5y+ before app,Consumer credit,34,11623.0,11.0,0.000946,0.056204,1
+5y+ before app,Consumer credit,35,10923.0,10.0,0.000915,0.057068,1
+5y+ before app,Consumer credit,36,9700.0,13.0,0.00134,0.058332,1
+5y+ before app,Consumer credit,37,8758.0,10.0,0.001142,0.059407,1
+5y+ before app,Consumer credit,38,8288.0,8.0,0.000965,0.060315,1
+5y+ before app,Consumer credit,39,7894.0,8.0,0.001013,0.061267,1
+5y+ before app,Consumer credit,40,7505.0,3.0,0.0004,0.061643,1
+5y+ before app,Consumer credit,41,7095.0,8.0,0.001128,0.062701,1
+5y+ before app,Consumer credit,42,6772.0,7.0,0.001034,0.06367,1
+5y+ before app,Consumer credit,43,6497.0,3.0,0.000462,0.064102,1
+5y+ before app,Consumer credit,44,6170.0,1.0,0.000162,0.064254,1
+5y+ before app,Consumer credit,45,5824.0,1.0,0.000172,0.064414,1
+5y+ before app,Consumer credit,46,5535.0,2.0,0.000361,0.064752,1
+5y+ before app,Consumer credit,47,5284.0,5.0,0.000946,0.065637,1
+5y+ before app,Consumer credit,48,5048.0,5.0,0.00099,0.066563,1
+5y+ before app,Consumer credit,49,4784.0,2.0,0.000418,0.066953,1
+5y+ before app,Consumer credit,50,4577.0,3.0,0.000655,0.067565,1
+5y+ before app,Consumer credit,51,4403.0,1.0,0.000227,0.067776,1
+5y+ before app,Consumer credit,52,4261.0,1.0,0.000235,0.067995,1
+5y+ before app,Consumer credit,53,4102.0,2.0,0.000488,0.06845,1
+5y+ before app,Consumer credit,54,3926.0,0.0,0.0,0.06845,1
+5y+ before app,Consumer credit,55,3756.0,3.0,0.000799,0.069194,1
+5y+ before app,Consumer credit,56,3586.0,0.0,0.0,0.069194,1
+5y+ before app,Consumer credit,57,3373.0,1.0,0.000296,0.06947,1
+5y+ before app,Consumer credit,58,3152.0,2.0,0.000635,0.07006,1
+5y+ before app,Consumer credit,59,2784.0,0.0,0.0,0.07006,1
+5y+ before app,Consumer credit,60,2156.0,0.0,0.0,0.07006,1
+0-1y before app,Credit card,0,10626.0,3.0,0.000282,0.000282,1
+0-1y before app,Credit card,1,23639.0,3.0,0.000127,0.000409,1
+0-1y before app,Credit card,2,26021.0,1.0,3.8e-05,0.000448,1
+0-1y before app,Credit card,3,24727.0,6.0,0.000243,0.00069,1
+0-1y before app,Credit card,4,22179.0,14.0,0.000631,0.001321,1
+0-1y before app,Credit card,5,19132.0,13.0,0.000679,0.002,1
+0-1y before app,Credit card,6,15775.0,14.0,0.000887,0.002885,1
+0-1y before app,Credit card,7,12398.0,11.0,0.000887,0.00377,1
+0-1y before app,Credit card,8,9398.0,7.0,0.000745,0.004512,1
+0-1y before app,Credit card,9,6855.0,3.0,0.000438,0.004948,1
+0-1y before app,Credit card,10,4509.0,7.0,0.001552,0.006492,1
+0-1y before app,Credit card,11,2458.0,5.0,0.002034,0.008513,1
+0-1y before app,Credit card,12,811.0,0.0,0.0,0.008513,1
+0-1y before app,Credit card,13,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,14,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,15,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,16,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,17,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,18,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,19,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,20,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,21,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,22,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,23,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,24,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,25,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,26,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,27,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,28,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,29,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,30,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,31,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,32,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,33,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,34,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,35,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,36,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,37,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,38,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,39,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,40,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,41,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,42,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,43,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,44,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,45,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,46,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,47,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,48,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,49,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,50,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,51,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,52,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,53,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,54,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,55,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,56,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,57,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,58,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,59,0.0,0.0,0.0,0.008513,0
+0-1y before app,Credit card,60,0.0,0.0,0.0,0.008513,0
+1-2y before app,Credit card,0,11785.0,0.0,0.0,0.0,1
+1-2y before app,Credit card,1,26154.0,0.0,0.0,0.0,1
+1-2y before app,Credit card,2,31082.0,1.0,3.2e-05,3.2e-05,1
+1-2y before app,Credit card,3,31840.0,7.0,0.00022,0.000252,1
+1-2y before app,Credit card,4,31256.0,8.0,0.000256,0.000508,1
+1-2y before app,Credit card,5,30378.0,10.0,0.000329,0.000837,1
+1-2y before app,Credit card,6,28902.0,15.0,0.000519,0.001355,1
+1-2y before app,Credit card,7,27449.0,14.0,0.00051,0.001865,1
+1-2y before app,Credit card,8,26326.0,13.0,0.000494,0.002358,1
+1-2y before app,Credit card,9,25184.0,25.0,0.000993,0.003348,1
+1-2y before app,Credit card,10,23632.0,17.0,0.000719,0.004065,1
+1-2y before app,Credit card,11,22034.0,13.0,0.00059,0.004653,1
+1-2y before app,Credit card,12,20161.0,15.0,0.000744,0.005393,1
+1-2y before app,Credit card,13,17725.0,14.0,0.00079,0.006179,1
+1-2y before app,Credit card,14,15358.0,9.0,0.000586,0.006761,1
+1-2y before app,Credit card,15,13234.0,14.0,0.001058,0.007812,1
+1-2y before app,Credit card,16,11236.0,9.0,0.000801,0.008607,1
+1-2y before app,Credit card,17,9378.0,6.0,0.00064,0.009241,1
+1-2y before app,Credit card,18,7661.0,4.0,0.000522,0.009758,1
+1-2y before app,Credit card,19,6018.0,1.0,0.000166,0.009923,1
+1-2y before app,Credit card,20,4634.0,3.0,0.000647,0.010564,1
+1-2y before app,Credit card,21,3324.0,3.0,0.000903,0.011457,1
+1-2y before app,Credit card,22,2234.0,0.0,0.0,0.011457,1
+1-2y before app,Credit card,23,1253.0,0.0,0.0,0.011457,1
+1-2y before app,Credit card,24,441.0,0.0,0.0,0.011457,1
+1-2y before app,Credit card,25,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,26,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,27,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,28,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,29,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,30,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,31,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,32,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,33,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,34,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,35,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,36,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,37,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,38,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,39,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,40,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,41,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,42,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,43,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,44,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,45,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,46,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,47,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,48,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,49,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,50,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,51,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,52,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,53,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,54,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,55,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,56,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,57,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,58,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,59,0.0,0.0,0.0,0.011457,0
+1-2y before app,Credit card,60,0.0,0.0,0.0,0.011457,0
+2-3y before app,Credit card,0,8674.0,0.0,0.0,0.0,1
+2-3y before app,Credit card,1,18922.0,1.0,5.3e-05,5.3e-05,1
+2-3y before app,Credit card,2,21898.0,2.0,9.1e-05,0.000144,1
+2-3y before app,Credit card,3,22531.0,2.0,8.9e-05,0.000233,1
+2-3y before app,Credit card,4,22386.0,7.0,0.000313,0.000546,1
+2-3y before app,Credit card,5,21945.0,7.0,0.000319,0.000864,1
+2-3y before app,Credit card,6,21086.0,10.0,0.000474,0.001338,1
+2-3y before app,Credit card,7,20201.0,5.0,0.000248,0.001585,1
+2-3y before app,Credit card,8,19556.0,6.0,0.000307,0.001892,1
+2-3y before app,Credit card,9,18956.0,17.0,0.000897,0.002787,1
+2-3y before app,Credit card,10,18085.0,12.0,0.000664,0.003449,1
+2-3y before app,Credit card,11,17215.0,8.0,0.000465,0.003912,1
+2-3y before app,Credit card,12,16271.0,5.0,0.000307,0.004218,1
+2-3y before app,Credit card,13,15398.0,12.0,0.000779,0.004994,1
+2-3y before app,Credit card,14,14929.0,7.0,0.000469,0.00546,1
+2-3y before app,Credit card,15,14510.0,8.0,0.000551,0.006009,1
+2-3y before app,Credit card,16,14106.0,11.0,0.00078,0.006784,1
+2-3y before app,Credit card,17,13726.0,6.0,0.000437,0.007218,1
+2-3y before app,Credit card,18,13290.0,2.0,0.00015,0.007367,1
+2-3y before app,Credit card,19,12887.0,7.0,0.000543,0.007906,1
+2-3y before app,Credit card,20,12504.0,8.0,0.00064,0.008541,1
+2-3y before app,Credit card,21,12083.0,4.0,0.000331,0.008869,1
+2-3y before app,Credit card,22,11630.0,1.0,8.6e-05,0.008955,1
+2-3y before app,Credit card,23,11070.0,6.0,0.000542,0.009492,1
+2-3y before app,Credit card,24,10336.0,2.0,0.000193,0.009683,1
+2-3y before app,Credit card,25,9329.0,2.0,0.000214,0.009896,1
+2-3y before app,Credit card,26,8137.0,1.0,0.000123,0.010017,1
+2-3y before app,Credit card,27,7066.0,3.0,0.000425,0.010438,1
+2-3y before app,Credit card,28,6078.0,2.0,0.000329,0.010763,1
+2-3y before app,Credit card,29,5162.0,2.0,0.000387,0.011147,1
+2-3y before app,Credit card,30,4268.0,2.0,0.000469,0.01161,1
+2-3y before app,Credit card,31,3344.0,0.0,0.0,0.01161,1
+2-3y before app,Credit card,32,2541.0,1.0,0.000394,0.011999,1
+2-3y before app,Credit card,33,1821.0,1.0,0.000549,0.012542,1
+2-3y before app,Credit card,34,1183.0,1.0,0.000845,0.013376,1
+2-3y before app,Credit card,35,647.0,0.0,0.0,0.013376,1
+2-3y before app,Credit card,36,224.0,0.0,0.0,0.013376,1
+2-3y before app,Credit card,37,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,38,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,39,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,40,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,41,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,42,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,43,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,44,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,45,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,46,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,47,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,48,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,49,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,50,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,51,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,52,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,53,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,54,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,55,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,56,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,57,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,58,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,59,0.0,0.0,0.0,0.013376,0
+2-3y before app,Credit card,60,0.0,0.0,0.0,0.013376,0
+3-5y before app,Credit card,0,8908.0,1.0,0.000112,0.000112,1
+3-5y before app,Credit card,1,20422.0,3.0,0.000147,0.000259,1
+3-5y before app,Credit card,2,24450.0,4.0,0.000164,0.000423,1
+3-5y before app,Credit card,3,25459.0,3.0,0.000118,0.00054,1
+3-5y before app,Credit card,4,25386.0,12.0,0.000473,0.001013,1
+3-5y before app,Credit card,5,24939.0,13.0,0.000521,0.001534,1
+3-5y before app,Credit card,6,23959.0,7.0,0.000292,0.001825,1
+3-5y before app,Credit card,7,22936.0,15.0,0.000654,0.002478,1
+3-5y before app,Credit card,8,22378.0,17.0,0.00076,0.003236,1
+3-5y before app,Credit card,9,21748.0,16.0,0.000736,0.003969,1
+3-5y before app,Credit card,10,20826.0,13.0,0.000624,0.004591,1
+3-5y before app,Credit card,11,19734.0,9.0,0.000456,0.005045,1
+3-5y before app,Credit card,12,18577.0,4.0,0.000215,0.005259,1
+3-5y before app,Credit card,13,17634.0,6.0,0.00034,0.005598,1
+3-5y before app,Credit card,14,17167.0,17.0,0.00099,0.006582,1
+3-5y before app,Credit card,15,16897.0,16.0,0.000947,0.007523,1
+3-5y before app,Credit card,16,16535.0,9.0,0.000544,0.008063,1
+3-5y before app,Credit card,17,16040.0,4.0,0.000249,0.008311,1
+3-5y before app,Credit card,18,15584.0,3.0,0.000193,0.008502,1
+3-5y before app,Credit card,19,15266.0,7.0,0.000459,0.008956,1
+3-5y before app,Credit card,20,14916.0,6.0,0.000402,0.009355,1
+3-5y before app,Credit card,21,14560.0,1.0,6.9e-05,0.009423,1
+3-5y before app,Credit card,22,14275.0,1.0,7e-05,0.009492,1
+3-5y before app,Credit card,23,13891.0,5.0,0.00036,0.009849,1
+3-5y before app,Credit card,24,13432.0,2.0,0.000149,0.009996,1
+3-5y before app,Credit card,25,12949.0,2.0,0.000154,0.010149,1
+3-5y before app,Credit card,26,12650.0,5.0,0.000395,0.01054,1
+3-5y before app,Credit card,27,12371.0,1.0,8.1e-05,0.01062,1
+3-5y before app,Credit card,28,12112.0,2.0,0.000165,0.010784,1
+3-5y before app,Credit card,29,11883.0,3.0,0.000252,0.011034,1
+3-5y before app,Credit card,30,11657.0,5.0,0.000429,0.011458,1
+3-5y before app,Credit card,31,11438.0,2.0,0.000175,0.011631,1
+3-5y before app,Credit card,32,11173.0,6.0,0.000537,0.012161,1
+3-5y before app,Credit card,33,10878.0,2.0,0.000184,0.012343,1
+3-5y before app,Credit card,34,10559.0,2.0,0.000189,0.01253,1
+3-5y before app,Credit card,35,10221.0,2.0,0.000196,0.012723,1
+3-5y before app,Credit card,36,9639.0,6.0,0.000622,0.013338,1
+3-5y before app,Credit card,37,8932.0,2.0,0.000224,0.013559,1
+3-5y before app,Credit card,38,8189.0,0.0,0.0,0.013559,1
+3-5y before app,Credit card,39,7566.0,1.0,0.000132,0.013689,1
+3-5y before app,Credit card,40,6977.0,1.0,0.000143,0.01383,1
+3-5y before app,Credit card,41,6369.0,1.0,0.000157,0.013985,1
+3-5y before app,Credit card,42,5756.0,3.0,0.000521,0.014499,1
+3-5y before app,Credit card,43,5213.0,1.0,0.000192,0.014688,1
+3-5y before app,Credit card,44,4718.0,3.0,0.000636,0.015315,1
+3-5y before app,Credit card,45,4258.0,0.0,0.0,0.015315,1
+3-5y before app,Credit card,46,3817.0,0.0,0.0,0.015315,1
+3-5y before app,Credit card,47,3395.0,1.0,0.000295,0.015605,1
+3-5y before app,Credit card,48,2997.0,0.0,0.0,0.015605,1
+3-5y before app,Credit card,49,2595.0,0.0,0.0,0.015605,1
+3-5y before app,Credit card,50,2257.0,0.0,0.0,0.015605,1
+3-5y before app,Credit card,51,1954.0,0.0,0.0,0.015605,1
+3-5y before app,Credit card,52,1712.0,1.0,0.000584,0.01618,1
+3-5y before app,Credit card,53,1461.0,0.0,0.0,0.01618,1
+3-5y before app,Credit card,54,1213.0,0.0,0.0,0.01618,1
+3-5y before app,Credit card,55,957.0,0.0,0.0,0.01618,1
+3-5y before app,Credit card,56,729.0,0.0,0.0,0.01618,1
+3-5y before app,Credit card,57,534.0,0.0,0.0,0.01618,1
+3-5y before app,Credit card,58,370.0,0.0,0.0,0.01618,1
+3-5y before app,Credit card,59,214.0,0.0,0.0,0.01618,1
+3-5y before app,Credit card,60,67.0,0.0,0.0,0.01618,0
+5y+ before app,Credit card,0,5187.0,1.0,0.000193,0.000193,1
+5y+ before app,Credit card,1,11921.0,2.0,0.000168,0.000361,1
+5y+ before app,Credit card,2,14088.0,2.0,0.000142,0.000502,1
+5y+ before app,Credit card,3,14276.0,0.0,0.0,0.000502,1
+5y+ before app,Credit card,4,13975.0,8.0,0.000572,0.001075,1
+5y+ before app,Credit card,5,13518.0,6.0,0.000444,0.001518,1
+5y+ before app,Credit card,6,12771.0,6.0,0.00047,0.001987,1
+5y+ before app,Credit card,7,12034.0,14.0,0.001163,0.003148,1
+5y+ before app,Credit card,8,11573.0,12.0,0.001037,0.004182,1
+5y+ before app,Credit card,9,11120.0,12.0,0.001079,0.005256,1
+5y+ before app,Credit card,10,10447.0,22.0,0.002106,0.007351,1
+5y+ before app,Credit card,11,9770.0,15.0,0.001535,0.008875,1
+5y+ before app,Credit card,12,9038.0,8.0,0.000885,0.009753,1
+5y+ before app,Credit card,13,8397.0,11.0,0.00131,0.01105,1
+5y+ before app,Credit card,14,8174.0,6.0,0.000734,0.011776,1
+5y+ before app,Credit card,15,8032.0,8.0,0.000996,0.01276,1
+5y+ before app,Credit card,16,7889.0,12.0,0.001521,0.014262,1
+5y+ before app,Credit card,17,7738.0,4.0,0.000517,0.014771,1
+5y+ before app,Credit card,18,7580.0,6.0,0.000792,0.015551,1
+5y+ before app,Credit card,19,7432.0,10.0,0.001346,0.016876,1
+5y+ before app,Credit card,20,7295.0,9.0,0.001234,0.018089,1
+5y+ before app,Credit card,21,7163.0,4.0,0.000558,0.018637,1
+5y+ before app,Credit card,22,7051.0,6.0,0.000851,0.019472,1
+5y+ before app,Credit card,23,6865.0,1.0,0.000146,0.019615,1
+5y+ before app,Credit card,24,6595.0,4.0,0.000607,0.020209,1
+5y+ before app,Credit card,25,6355.0,8.0,0.001259,0.021443,1
+5y+ before app,Credit card,26,6172.0,8.0,0.001296,0.022711,1
+5y+ before app,Credit card,27,6060.0,4.0,0.00066,0.023356,1
+5y+ before app,Credit card,28,6029.0,0.0,0.0,0.023356,1
+5y+ before app,Credit card,29,5949.0,2.0,0.000336,0.023685,1
+5y+ before app,Credit card,30,5818.0,2.0,0.000344,0.02402,1
+5y+ before app,Credit card,31,5744.0,2.0,0.000348,0.02436,1
+5y+ before app,Credit card,32,5683.0,3.0,0.000528,0.024875,1
+5y+ before app,Credit card,33,5595.0,3.0,0.000536,0.025398,1
+5y+ before app,Credit card,34,5520.0,4.0,0.000725,0.026104,1
+5y+ before app,Credit card,35,5397.0,1.0,0.000185,0.026285,1
+5y+ before app,Credit card,36,5257.0,0.0,0.0,0.026285,1
+5y+ before app,Credit card,37,5108.0,3.0,0.000587,0.026857,1
+5y+ before app,Credit card,38,5021.0,0.0,0.0,0.026857,1
+5y+ before app,Credit card,39,4930.0,1.0,0.000203,0.027054,1
+5y+ before app,Credit card,40,4860.0,1.0,0.000206,0.027254,1
+5y+ before app,Credit card,41,4805.0,1.0,0.000208,0.027457,1
+5y+ before app,Credit card,42,4723.0,0.0,0.0,0.027457,1
+5y+ before app,Credit card,43,4616.0,0.0,0.0,0.027457,1
+5y+ before app,Credit card,44,4531.0,0.0,0.0,0.027457,1
+5y+ before app,Credit card,45,4425.0,1.0,0.000226,0.027676,1
+5y+ before app,Credit card,46,4285.0,1.0,0.000233,0.027903,1
+5y+ before app,Credit card,47,4185.0,2.0,0.000478,0.028368,1
+5y+ before app,Credit card,48,4089.0,2.0,0.000489,0.028843,1
+5y+ before app,Credit card,49,3958.0,1.0,0.000253,0.029088,1
+5y+ before app,Credit card,50,3853.0,2.0,0.000519,0.029592,1
+5y+ before app,Credit card,51,3751.0,0.0,0.0,0.029592,1
+5y+ before app,Credit card,52,3652.0,0.0,0.0,0.029592,1
+5y+ before app,Credit card,53,3599.0,0.0,0.0,0.029592,1
+5y+ before app,Credit card,54,3524.0,0.0,0.0,0.029592,1
+5y+ before app,Credit card,55,3444.0,0.0,0.0,0.029592,1
+5y+ before app,Credit card,56,3379.0,0.0,0.0,0.029592,1
+5y+ before app,Credit card,57,3314.0,0.0,0.0,0.029592,1
+5y+ before app,Credit card,58,3231.0,0.0,0.0,0.029592,1
+5y+ before app,Credit card,59,3155.0,0.0,0.0,0.029592,1
+5y+ before app,Credit card,60,3057.0,1.0,0.000327,0.02991,1
+0-1y before app,Microloan,0,1241.0,0.0,0.0,0.0,1
+0-1y before app,Microloan,1,2566.0,0.0,0.0,0.0,1
+0-1y before app,Microloan,2,2147.0,0.0,0.0,0.0,1
+0-1y before app,Microloan,3,1629.0,0.0,0.0,0.0,1
+0-1y before app,Microloan,4,1255.0,0.0,0.0,0.0,1
+0-1y before app,Microloan,5,950.0,0.0,0.0,0.0,1
+0-1y before app,Microloan,6,688.0,0.0,0.0,0.0,1
+0-1y before app,Microloan,7,445.0,0.0,0.0,0.0,1
+0-1y before app,Microloan,8,297.0,1.0,0.003367,0.003367,1
+0-1y before app,Microloan,9,188.0,0.0,0.0,0.003367,1
+0-1y before app,Microloan,10,110.0,0.0,0.0,0.003367,1
+0-1y before app,Microloan,11,51.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,12,14.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,13,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,14,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,15,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,16,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,17,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,18,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,19,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,20,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,21,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,22,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,23,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,24,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,25,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,26,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,27,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,28,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,29,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,30,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,31,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,32,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,33,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,34,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,35,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,36,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,37,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,38,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,39,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,40,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,41,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,42,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,43,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,44,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,45,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,46,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,47,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,48,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,49,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,50,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,51,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,52,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,53,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,54,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,55,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,56,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,57,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,58,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,59,0.0,0.0,0.0,0.003367,0
+0-1y before app,Microloan,60,0.0,0.0,0.0,0.003367,0
+1-2y before app,Microloan,0,119.0,0.0,0.0,0.0,1
+1-2y before app,Microloan,1,278.0,0.0,0.0,0.0,1
+1-2y before app,Microloan,2,297.0,0.0,0.0,0.0,1
+1-2y before app,Microloan,3,277.0,0.0,0.0,0.0,1
+1-2y before app,Microloan,4,255.0,0.0,0.0,0.0,1
+1-2y before app,Microloan,5,251.0,0.0,0.0,0.0,1
+1-2y before app,Microloan,6,231.0,0.0,0.0,0.0,1
+1-2y before app,Microloan,7,217.0,0.0,0.0,0.0,1
+1-2y before app,Microloan,8,202.0,1.0,0.00495,0.00495,1
+1-2y before app,Microloan,9,184.0,0.0,0.0,0.00495,1
+1-2y before app,Microloan,10,161.0,0.0,0.0,0.00495,1
+1-2y before app,Microloan,11,149.0,0.0,0.0,0.00495,1
+1-2y before app,Microloan,12,123.0,0.0,0.0,0.00495,1
+1-2y before app,Microloan,13,93.0,1.0,0.010753,0.01565,0
+1-2y before app,Microloan,14,74.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,15,66.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,16,59.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,17,48.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,18,36.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,19,26.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,20,21.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,21,14.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,22,9.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,23,6.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,24,1.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,25,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,26,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,27,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,28,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,29,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,30,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,31,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,32,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,33,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,34,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,35,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,36,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,37,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,38,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,39,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,40,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,41,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,42,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,43,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,44,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,45,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,46,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,47,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,48,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,49,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,50,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,51,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,52,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,53,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,54,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,55,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,56,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,57,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,58,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,59,0.0,0.0,0.0,0.01565,0
+1-2y before app,Microloan,60,0.0,0.0,0.0,0.01565,0
+2-3y before app,Microloan,0,41.0,0.0,0.0,0.0,0
+2-3y before app,Microloan,1,111.0,0.0,0.0,0.0,1
+2-3y before app,Microloan,2,128.0,0.0,0.0,0.0,1
+2-3y before app,Microloan,3,128.0,0.0,0.0,0.0,1
+2-3y before app,Microloan,4,119.0,0.0,0.0,0.0,1
+2-3y before app,Microloan,5,109.0,0.0,0.0,0.0,1
+2-3y before app,Microloan,6,92.0,1.0,0.01087,0.01087,0
+2-3y before app,Microloan,7,85.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,8,86.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,9,78.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,10,71.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,11,68.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,12,62.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,13,57.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,14,47.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,15,45.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,16,44.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,17,42.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,18,39.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,19,36.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,20,35.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,21,31.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,22,30.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,23,26.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,24,21.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,25,13.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,26,8.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,27,6.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,28,6.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,29,5.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,30,5.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,31,4.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,32,4.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,33,2.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,34,2.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,35,2.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,36,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,37,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,38,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,39,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,40,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,41,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,42,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,43,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,44,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,45,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,46,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,47,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,48,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,49,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,50,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,51,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,52,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,53,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,54,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,55,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,56,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,57,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,58,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,59,0.0,0.0,0.0,0.01087,0
+2-3y before app,Microloan,60,0.0,0.0,0.0,0.01087,0
+3-5y before app,Microloan,0,11.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,1,21.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,2,23.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,3,21.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,4,21.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,5,18.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,6,15.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,7,9.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,8,9.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,9,10.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,10,9.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,11,9.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,12,6.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,13,6.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,14,6.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,15,7.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,16,8.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,17,8.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,18,8.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,19,6.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,20,6.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,21,5.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,22,6.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,23,5.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,24,4.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,25,3.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,26,3.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,27,3.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,28,3.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,29,3.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,30,3.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,31,3.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,32,2.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,33,2.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,34,2.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,35,2.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,36,2.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,37,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,38,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,39,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,40,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,41,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,42,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,43,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,44,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,45,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,46,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,47,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,48,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,49,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,50,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,51,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,52,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,53,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,54,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,55,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,56,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,57,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,58,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,59,0.0,0.0,0.0,0.0,0
+3-5y before app,Microloan,60,0.0,0.0,0.0,0.0,0
+0-1y before app,Mortgage,0,514.0,0.0,0.0,0.0,1
+0-1y before app,Mortgage,1,1240.0,2.0,0.001613,0.001613,1
+0-1y before app,Mortgage,2,1480.0,2.0,0.001351,0.002962,1
+0-1y before app,Mortgage,3,1443.0,0.0,0.0,0.002962,1
+0-1y before app,Mortgage,4,1280.0,1.0,0.000781,0.003741,1
+0-1y before app,Mortgage,5,1080.0,0.0,0.0,0.003741,1
+0-1y before app,Mortgage,6,894.0,0.0,0.0,0.003741,1
+0-1y before app,Mortgage,7,679.0,2.0,0.002946,0.006675,1
+0-1y before app,Mortgage,8,517.0,0.0,0.0,0.006675,1
+0-1y before app,Mortgage,9,355.0,0.0,0.0,0.006675,1
+0-1y before app,Mortgage,10,235.0,0.0,0.0,0.006675,1
+0-1y before app,Mortgage,11,124.0,0.0,0.0,0.006675,1
+0-1y before app,Mortgage,12,42.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,13,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,14,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,15,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,16,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,17,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,18,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,19,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,20,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,21,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,22,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,23,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,24,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,25,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,26,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,27,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,28,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,29,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,30,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,31,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,32,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,33,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,34,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,35,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,36,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,37,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,38,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,39,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,40,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,41,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,42,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,43,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,44,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,45,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,46,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,47,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,48,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,49,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,50,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,51,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,52,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,53,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,54,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,55,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,56,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,57,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,58,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,59,0.0,0.0,0.0,0.006675,0
+0-1y before app,Mortgage,60,0.0,0.0,0.0,0.006675,0
+1-2y before app,Mortgage,0,497.0,0.0,0.0,0.0,1
+1-2y before app,Mortgage,1,1200.0,1.0,0.000833,0.000833,1
+1-2y before app,Mortgage,2,1506.0,1.0,0.000664,0.001497,1
+1-2y before app,Mortgage,3,1562.0,0.0,0.0,0.001497,1
+1-2y before app,Mortgage,4,1522.0,1.0,0.000657,0.002153,1
+1-2y before app,Mortgage,5,1476.0,2.0,0.001355,0.003505,1
+1-2y before app,Mortgage,6,1407.0,0.0,0.0,0.003505,1
+1-2y before app,Mortgage,7,1328.0,1.0,0.000753,0.004255,1
+1-2y before app,Mortgage,8,1281.0,0.0,0.0,0.004255,1
+1-2y before app,Mortgage,9,1239.0,0.0,0.0,0.004255,1
+1-2y before app,Mortgage,10,1180.0,1.0,0.000847,0.005099,1
+1-2y before app,Mortgage,11,1116.0,0.0,0.0,0.005099,1
+1-2y before app,Mortgage,12,1024.0,0.0,0.0,0.005099,1
+1-2y before app,Mortgage,13,911.0,1.0,0.001098,0.006191,1
+1-2y before app,Mortgage,14,789.0,1.0,0.001267,0.007451,1
+1-2y before app,Mortgage,15,691.0,0.0,0.0,0.007451,1
+1-2y before app,Mortgage,16,598.0,0.0,0.0,0.007451,1
+1-2y before app,Mortgage,17,514.0,0.0,0.0,0.007451,1
+1-2y before app,Mortgage,18,418.0,0.0,0.0,0.007451,1
+1-2y before app,Mortgage,19,342.0,0.0,0.0,0.007451,1
+1-2y before app,Mortgage,20,266.0,0.0,0.0,0.007451,1
+1-2y before app,Mortgage,21,192.0,0.0,0.0,0.007451,1
+1-2y before app,Mortgage,22,125.0,0.0,0.0,0.007451,1
+1-2y before app,Mortgage,23,67.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,24,19.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,25,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,26,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,27,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,28,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,29,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,30,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,31,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,32,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,33,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,34,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,35,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,36,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,37,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,38,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,39,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,40,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,41,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,42,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,43,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,44,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,45,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,46,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,47,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,48,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,49,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,50,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,51,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,52,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,53,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,54,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,55,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,56,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,57,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,58,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,59,0.0,0.0,0.0,0.007451,0
+1-2y before app,Mortgage,60,0.0,0.0,0.0,0.007451,0
+2-3y before app,Mortgage,0,376.0,0.0,0.0,0.0,1
+2-3y before app,Mortgage,1,906.0,0.0,0.0,0.0,1
+2-3y before app,Mortgage,2,1069.0,0.0,0.0,0.0,1
+2-3y before app,Mortgage,3,1108.0,0.0,0.0,0.0,1
+2-3y before app,Mortgage,4,1102.0,0.0,0.0,0.0,1
+2-3y before app,Mortgage,5,1084.0,1.0,0.000923,0.000923,1
+2-3y before app,Mortgage,6,1034.0,1.0,0.000967,0.001889,1
+2-3y before app,Mortgage,7,997.0,2.0,0.002006,0.003891,1
+2-3y before app,Mortgage,8,964.0,0.0,0.0,0.003891,1
+2-3y before app,Mortgage,9,935.0,0.0,0.0,0.003891,1
+2-3y before app,Mortgage,10,897.0,0.0,0.0,0.003891,1
+2-3y before app,Mortgage,11,860.0,1.0,0.001163,0.005049,1
+2-3y before app,Mortgage,12,815.0,0.0,0.0,0.005049,1
+2-3y before app,Mortgage,13,772.0,1.0,0.001295,0.006338,1
+2-3y before app,Mortgage,14,758.0,2.0,0.002639,0.00896,1
+2-3y before app,Mortgage,15,738.0,0.0,0.0,0.00896,1
+2-3y before app,Mortgage,16,733.0,0.0,0.0,0.00896,1
+2-3y before app,Mortgage,17,711.0,0.0,0.0,0.00896,1
+2-3y before app,Mortgage,18,697.0,0.0,0.0,0.00896,1
+2-3y before app,Mortgage,19,686.0,0.0,0.0,0.00896,1
+2-3y before app,Mortgage,20,678.0,0.0,0.0,0.00896,1
+2-3y before app,Mortgage,21,663.0,0.0,0.0,0.00896,1
+2-3y before app,Mortgage,22,652.0,1.0,0.001534,0.01048,1
+2-3y before app,Mortgage,23,643.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,24,614.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,25,554.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,26,492.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,27,446.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,28,381.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,29,317.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,30,258.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,31,216.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,32,163.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,33,122.0,0.0,0.0,0.01048,1
+2-3y before app,Mortgage,34,91.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,35,47.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,36,13.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,37,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,38,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,39,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,40,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,41,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,42,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,43,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,44,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,45,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,46,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,47,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,48,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,49,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,50,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,51,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,52,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,53,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,54,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,55,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,56,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,57,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,58,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,59,0.0,0.0,0.0,0.01048,0
+2-3y before app,Mortgage,60,0.0,0.0,0.0,0.01048,0
+3-5y before app,Mortgage,0,407.0,0.0,0.0,0.0,1
+3-5y before app,Mortgage,1,985.0,0.0,0.0,0.0,1
+3-5y before app,Mortgage,2,1183.0,0.0,0.0,0.0,1
+3-5y before app,Mortgage,3,1212.0,0.0,0.0,0.0,1
+3-5y before app,Mortgage,4,1195.0,1.0,0.000837,0.000837,1
+3-5y before app,Mortgage,5,1166.0,1.0,0.000858,0.001694,1
+3-5y before app,Mortgage,6,1114.0,0.0,0.0,0.001694,1
+3-5y before app,Mortgage,7,1061.0,0.0,0.0,0.001694,1
+3-5y before app,Mortgage,8,1037.0,0.0,0.0,0.001694,1
+3-5y before app,Mortgage,9,1010.0,2.0,0.00198,0.003671,1
+3-5y before app,Mortgage,10,964.0,1.0,0.001037,0.004704,1
+3-5y before app,Mortgage,11,930.0,0.0,0.0,0.004704,1
+3-5y before app,Mortgage,12,878.0,0.0,0.0,0.004704,1
+3-5y before app,Mortgage,13,843.0,2.0,0.002372,0.007065,1
+3-5y before app,Mortgage,14,818.0,0.0,0.0,0.007065,1
+3-5y before app,Mortgage,15,800.0,0.0,0.0,0.007065,1
+3-5y before app,Mortgage,16,783.0,1.0,0.001277,0.008334,1
+3-5y before app,Mortgage,17,776.0,0.0,0.0,0.008334,1
+3-5y before app,Mortgage,18,769.0,0.0,0.0,0.008334,1
+3-5y before app,Mortgage,19,748.0,1.0,0.001337,0.009659,1
+3-5y before app,Mortgage,20,740.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,21,727.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,22,709.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,23,693.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,24,680.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,25,673.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,26,668.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,27,660.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,28,655.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,29,650.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,30,644.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,31,641.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,32,644.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,33,633.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,34,627.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,35,612.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,36,590.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,37,550.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,38,502.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,39,464.0,0.0,0.0,0.009659,1
+3-5y before app,Mortgage,40,422.0,1.0,0.00237,0.012006,1
+3-5y before app,Mortgage,41,383.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,42,353.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,43,323.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,44,292.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,45,262.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,46,240.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,47,206.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,48,182.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,49,164.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,50,139.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,51,124.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,52,108.0,0.0,0.0,0.012006,1
+3-5y before app,Mortgage,53,97.0,0.0,0.0,0.012006,0
+3-5y before app,Mortgage,54,75.0,0.0,0.0,0.012006,0
+3-5y before app,Mortgage,55,56.0,0.0,0.0,0.012006,0
+3-5y before app,Mortgage,56,37.0,0.0,0.0,0.012006,0
+3-5y before app,Mortgage,57,29.0,0.0,0.0,0.012006,0
+3-5y before app,Mortgage,58,20.0,0.0,0.0,0.012006,0
+3-5y before app,Mortgage,59,8.0,0.0,0.0,0.012006,0
+3-5y before app,Mortgage,60,1.0,0.0,0.0,0.012006,0
+5y+ before app,Mortgage,0,290.0,0.0,0.0,0.0,1
+5y+ before app,Mortgage,1,672.0,0.0,0.0,0.0,1
+5y+ before app,Mortgage,2,761.0,0.0,0.0,0.0,1
+5y+ before app,Mortgage,3,764.0,0.0,0.0,0.0,1
+5y+ before app,Mortgage,4,746.0,0.0,0.0,0.0,1
+5y+ before app,Mortgage,5,715.0,0.0,0.0,0.0,1
+5y+ before app,Mortgage,6,661.0,0.0,0.0,0.0,1
+5y+ before app,Mortgage,7,626.0,0.0,0.0,0.0,1
+5y+ before app,Mortgage,8,597.0,0.0,0.0,0.0,1
+5y+ before app,Mortgage,9,563.0,0.0,0.0,0.0,1
+5y+ before app,Mortgage,10,524.0,4.0,0.007634,0.007634,1
+5y+ before app,Mortgage,11,500.0,3.0,0.006,0.013588,1
+5y+ before app,Mortgage,12,468.0,2.0,0.004274,0.017803,1
+5y+ before app,Mortgage,13,445.0,0.0,0.0,0.017803,1
+5y+ before app,Mortgage,14,442.0,0.0,0.0,0.017803,1
+5y+ before app,Mortgage,15,436.0,2.0,0.004587,0.022309,1
+5y+ before app,Mortgage,16,436.0,0.0,0.0,0.022309,1
+5y+ before app,Mortgage,17,427.0,1.0,0.002342,0.024598,1
+5y+ before app,Mortgage,18,413.0,2.0,0.004843,0.029322,1
+5y+ before app,Mortgage,19,401.0,0.0,0.0,0.029322,1
+5y+ before app,Mortgage,20,401.0,0.0,0.0,0.029322,1
+5y+ before app,Mortgage,21,390.0,0.0,0.0,0.029322,1
+5y+ before app,Mortgage,22,382.0,0.0,0.0,0.029322,1
+5y+ before app,Mortgage,23,372.0,1.0,0.002688,0.031931,1
+5y+ before app,Mortgage,24,363.0,1.0,0.002755,0.034598,1
+5y+ before app,Mortgage,25,348.0,2.0,0.005747,0.040146,1
+5y+ before app,Mortgage,26,343.0,1.0,0.002915,0.042945,1
+5y+ before app,Mortgage,27,341.0,0.0,0.0,0.042945,1
+5y+ before app,Mortgage,28,341.0,0.0,0.0,0.042945,1
+5y+ before app,Mortgage,29,347.0,0.0,0.0,0.042945,1
+5y+ before app,Mortgage,30,347.0,0.0,0.0,0.042945,1
+5y+ before app,Mortgage,31,353.0,0.0,0.0,0.042945,1
+5y+ before app,Mortgage,32,356.0,0.0,0.0,0.042945,1
+5y+ before app,Mortgage,33,365.0,1.0,0.00274,0.045567,1
+5y+ before app,Mortgage,34,373.0,0.0,0.0,0.045567,1
+5y+ before app,Mortgage,35,380.0,0.0,0.0,0.045567,1
+5y+ before app,Mortgage,36,386.0,0.0,0.0,0.045567,1
+5y+ before app,Mortgage,37,390.0,0.0,0.0,0.045567,1
+5y+ before app,Mortgage,38,392.0,0.0,0.0,0.045567,1
+5y+ before app,Mortgage,39,390.0,0.0,0.0,0.045567,1
+5y+ before app,Mortgage,40,395.0,1.0,0.002532,0.047983,1
+5y+ before app,Mortgage,41,398.0,0.0,0.0,0.047983,1
+5y+ before app,Mortgage,42,403.0,0.0,0.0,0.047983,1
+5y+ before app,Mortgage,43,405.0,0.0,0.0,0.047983,1
+5y+ before app,Mortgage,44,412.0,0.0,0.0,0.047983,1
+5y+ before app,Mortgage,45,415.0,0.0,0.0,0.047983,1
+5y+ before app,Mortgage,46,404.0,0.0,0.0,0.047983,1
+5y+ before app,Mortgage,47,397.0,0.0,0.0,0.047983,1
+5y+ before app,Mortgage,48,390.0,1.0,0.002564,0.050424,1
+5y+ before app,Mortgage,49,388.0,0.0,0.0,0.050424,1
+5y+ before app,Mortgage,50,389.0,1.0,0.002571,0.052865,1
+5y+ before app,Mortgage,51,385.0,0.0,0.0,0.052865,1
+5y+ before app,Mortgage,52,374.0,0.0,0.0,0.052865,1
+5y+ before app,Mortgage,53,370.0,0.0,0.0,0.052865,1
+5y+ before app,Mortgage,54,366.0,0.0,0.0,0.052865,1
+5y+ before app,Mortgage,55,362.0,0.0,0.0,0.052865,1
+5y+ before app,Mortgage,56,354.0,0.0,0.0,0.052865,1
+5y+ before app,Mortgage,57,352.0,0.0,0.0,0.052865,1
+5y+ before app,Mortgage,58,345.0,0.0,0.0,0.052865,1
+5y+ before app,Mortgage,59,340.0,0.0,0.0,0.052865,1
+5y+ before app,Mortgage,60,336.0,0.0,0.0,0.052865,1
+0-1y before app,Other,0,80.0,0.0,0.0,0.0,0
+0-1y before app,Other,1,193.0,0.0,0.0,0.0,1
+0-1y before app,Other,2,218.0,0.0,0.0,0.0,1
+0-1y before app,Other,3,201.0,0.0,0.0,0.0,1
+0-1y before app,Other,4,173.0,0.0,0.0,0.0,1
+0-1y before app,Other,5,154.0,0.0,0.0,0.0,1
+0-1y before app,Other,6,133.0,0.0,0.0,0.0,1
+0-1y before app,Other,7,93.0,1.0,0.010753,0.010753,0
+0-1y before app,Other,8,58.0,1.0,0.017241,0.027809,0
+0-1y before app,Other,9,34.0,0.0,0.0,0.027809,0
+0-1y before app,Other,10,13.0,0.0,0.0,0.027809,0
+0-1y before app,Other,11,10.0,0.0,0.0,0.027809,0
+0-1y before app,Other,12,3.0,0.0,0.0,0.027809,0
+0-1y before app,Other,13,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,14,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,15,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,16,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,17,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,18,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,19,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,20,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,21,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,22,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,23,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,24,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,25,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,26,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,27,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,28,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,29,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,30,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,31,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,32,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,33,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,34,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,35,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,36,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,37,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,38,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,39,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,40,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,41,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,42,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,43,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,44,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,45,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,46,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,47,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,48,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,49,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,50,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,51,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,52,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,53,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,54,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,55,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,56,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,57,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,58,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,59,0.0,0.0,0.0,0.027809,0
+0-1y before app,Other,60,0.0,0.0,0.0,0.027809,0
+1-2y before app,Other,0,32.0,0.0,0.0,0.0,0
+1-2y before app,Other,1,80.0,0.0,0.0,0.0,0
+1-2y before app,Other,2,90.0,0.0,0.0,0.0,0
+1-2y before app,Other,3,95.0,0.0,0.0,0.0,0
+1-2y before app,Other,4,93.0,0.0,0.0,0.0,0
+1-2y before app,Other,5,91.0,0.0,0.0,0.0,0
+1-2y before app,Other,6,86.0,0.0,0.0,0.0,0
+1-2y before app,Other,7,82.0,0.0,0.0,0.0,0
+1-2y before app,Other,8,75.0,0.0,0.0,0.0,0
+1-2y before app,Other,9,71.0,0.0,0.0,0.0,0
+1-2y before app,Other,10,70.0,0.0,0.0,0.0,0
+1-2y before app,Other,11,66.0,1.0,0.015152,0.015152,0
+1-2y before app,Other,12,65.0,1.0,0.015385,0.030303,0
+1-2y before app,Other,13,58.0,0.0,0.0,0.030303,0
+1-2y before app,Other,14,54.0,0.0,0.0,0.030303,0
+1-2y before app,Other,15,46.0,0.0,0.0,0.030303,0
+1-2y before app,Other,16,42.0,0.0,0.0,0.030303,0
+1-2y before app,Other,17,40.0,1.0,0.025,0.054545,0
+1-2y before app,Other,18,35.0,0.0,0.0,0.054545,0
+1-2y before app,Other,19,28.0,0.0,0.0,0.054545,0
+1-2y before app,Other,20,25.0,0.0,0.0,0.054545,0
+1-2y before app,Other,21,19.0,0.0,0.0,0.054545,0
+1-2y before app,Other,22,17.0,0.0,0.0,0.054545,0
+1-2y before app,Other,23,11.0,0.0,0.0,0.054545,0
+1-2y before app,Other,24,6.0,0.0,0.0,0.054545,0
+1-2y before app,Other,25,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,26,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,27,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,28,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,29,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,30,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,31,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,32,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,33,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,34,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,35,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,36,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,37,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,38,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,39,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,40,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,41,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,42,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,43,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,44,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,45,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,46,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,47,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,48,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,49,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,50,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,51,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,52,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,53,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,54,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,55,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,56,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,57,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,58,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,59,0.0,0.0,0.0,0.054545,0
+1-2y before app,Other,60,0.0,0.0,0.0,0.054545,0
+2-3y before app,Other,0,37.0,0.0,0.0,0.0,0
+2-3y before app,Other,1,86.0,0.0,0.0,0.0,0
+2-3y before app,Other,2,103.0,0.0,0.0,0.0,1
+2-3y before app,Other,3,108.0,0.0,0.0,0.0,1
+2-3y before app,Other,4,108.0,0.0,0.0,0.0,1
+2-3y before app,Other,5,103.0,0.0,0.0,0.0,1
+2-3y before app,Other,6,95.0,0.0,0.0,0.0,0
+2-3y before app,Other,7,95.0,0.0,0.0,0.0,0
+2-3y before app,Other,8,90.0,0.0,0.0,0.0,0
+2-3y before app,Other,9,84.0,0.0,0.0,0.0,0
+2-3y before app,Other,10,82.0,0.0,0.0,0.0,0
+2-3y before app,Other,11,79.0,0.0,0.0,0.0,0
+2-3y before app,Other,12,75.0,0.0,0.0,0.0,0
+2-3y before app,Other,13,71.0,0.0,0.0,0.0,0
+2-3y before app,Other,14,64.0,0.0,0.0,0.0,0
+2-3y before app,Other,15,63.0,0.0,0.0,0.0,0
+2-3y before app,Other,16,58.0,0.0,0.0,0.0,0
+2-3y before app,Other,17,58.0,0.0,0.0,0.0,0
+2-3y before app,Other,18,56.0,0.0,0.0,0.0,0
+2-3y before app,Other,19,54.0,0.0,0.0,0.0,0
+2-3y before app,Other,20,53.0,0.0,0.0,0.0,0
+2-3y before app,Other,21,52.0,0.0,0.0,0.0,0
+2-3y before app,Other,22,49.0,0.0,0.0,0.0,0
+2-3y before app,Other,23,45.0,1.0,0.022222,0.022222,0
+2-3y before app,Other,24,40.0,0.0,0.0,0.022222,0
+2-3y before app,Other,25,28.0,0.0,0.0,0.022222,0
+2-3y before app,Other,26,28.0,0.0,0.0,0.022222,0
+2-3y before app,Other,27,25.0,0.0,0.0,0.022222,0
+2-3y before app,Other,28,23.0,0.0,0.0,0.022222,0
+2-3y before app,Other,29,19.0,0.0,0.0,0.022222,0
+2-3y before app,Other,30,16.0,1.0,0.0625,0.083333,0
+2-3y before app,Other,31,15.0,0.0,0.0,0.083333,0
+2-3y before app,Other,32,10.0,0.0,0.0,0.083333,0
+2-3y before app,Other,33,8.0,0.0,0.0,0.083333,0
+2-3y before app,Other,34,7.0,0.0,0.0,0.083333,0
+2-3y before app,Other,35,5.0,0.0,0.0,0.083333,0
+2-3y before app,Other,36,1.0,0.0,0.0,0.083333,0
+2-3y before app,Other,37,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,38,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,39,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,40,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,41,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,42,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,43,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,44,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,45,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,46,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,47,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,48,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,49,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,50,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,51,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,52,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,53,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,54,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,55,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,56,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,57,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,58,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,59,0.0,0.0,0.0,0.083333,0
+2-3y before app,Other,60,0.0,0.0,0.0,0.083333,0
+3-5y before app,Other,0,100.0,0.0,0.0,0.0,1
+3-5y before app,Other,1,256.0,0.0,0.0,0.0,1
+3-5y before app,Other,2,297.0,0.0,0.0,0.0,1
+3-5y before app,Other,3,303.0,0.0,0.0,0.0,1
+3-5y before app,Other,4,305.0,3.0,0.009836,0.009836,1
+3-5y before app,Other,5,293.0,5.0,0.017065,0.026733,1
+3-5y before app,Other,6,271.0,6.0,0.02214,0.048281,1
+3-5y before app,Other,7,262.0,7.0,0.026718,0.073709,1
+3-5y before app,Other,8,250.0,2.0,0.008,0.081119,1
+3-5y before app,Other,9,236.0,1.0,0.004237,0.085013,1
+3-5y before app,Other,10,228.0,1.0,0.004386,0.089026,1
+3-5y before app,Other,11,217.0,1.0,0.004608,0.093224,1
+3-5y before app,Other,12,192.0,3.0,0.015625,0.107392,1
+3-5y before app,Other,13,187.0,1.0,0.005348,0.112166,1
+3-5y before app,Other,14,174.0,1.0,0.005747,0.117268,1
+3-5y before app,Other,15,162.0,0.0,0.0,0.117268,1
+3-5y before app,Other,16,155.0,1.0,0.006452,0.122963,1
+3-5y before app,Other,17,151.0,0.0,0.0,0.122963,1
+3-5y before app,Other,18,144.0,0.0,0.0,0.122963,1
+3-5y before app,Other,19,139.0,0.0,0.0,0.122963,1
+3-5y before app,Other,20,137.0,1.0,0.007299,0.129365,1
+3-5y before app,Other,21,129.0,0.0,0.0,0.129365,1
+3-5y before app,Other,22,122.0,0.0,0.0,0.129365,1
+3-5y before app,Other,23,113.0,0.0,0.0,0.129365,1
+3-5y before app,Other,24,99.0,0.0,0.0,0.129365,0
+3-5y before app,Other,25,87.0,0.0,0.0,0.129365,0
+3-5y before app,Other,26,85.0,0.0,0.0,0.129365,0
+3-5y before app,Other,27,86.0,2.0,0.023256,0.149612,0
+3-5y before app,Other,28,84.0,0.0,0.0,0.149612,0
+3-5y before app,Other,29,77.0,0.0,0.0,0.149612,0
+3-5y before app,Other,30,74.0,0.0,0.0,0.149612,0
+3-5y before app,Other,31,70.0,0.0,0.0,0.149612,0
+3-5y before app,Other,32,68.0,0.0,0.0,0.149612,0
+3-5y before app,Other,33,66.0,0.0,0.0,0.149612,0
+3-5y before app,Other,34,61.0,0.0,0.0,0.149612,0
+3-5y before app,Other,35,57.0,0.0,0.0,0.149612,0
+3-5y before app,Other,36,49.0,0.0,0.0,0.149612,0
+3-5y before app,Other,37,42.0,0.0,0.0,0.149612,0
+3-5y before app,Other,38,38.0,0.0,0.0,0.149612,0
+3-5y before app,Other,39,36.0,0.0,0.0,0.149612,0
+3-5y before app,Other,40,32.0,0.0,0.0,0.149612,0
+3-5y before app,Other,41,30.0,0.0,0.0,0.149612,0
+3-5y before app,Other,42,28.0,0.0,0.0,0.149612,0
+3-5y before app,Other,43,27.0,0.0,0.0,0.149612,0
+3-5y before app,Other,44,26.0,0.0,0.0,0.149612,0
+3-5y before app,Other,45,25.0,0.0,0.0,0.149612,0
+3-5y before app,Other,46,24.0,0.0,0.0,0.149612,0
+3-5y before app,Other,47,23.0,0.0,0.0,0.149612,0
+3-5y before app,Other,48,21.0,0.0,0.0,0.149612,0
+3-5y before app,Other,49,18.0,0.0,0.0,0.149612,0
+3-5y before app,Other,50,16.0,0.0,0.0,0.149612,0
+3-5y before app,Other,51,12.0,0.0,0.0,0.149612,0
+3-5y before app,Other,52,9.0,0.0,0.0,0.149612,0
+3-5y before app,Other,53,10.0,0.0,0.0,0.149612,0
+3-5y before app,Other,54,7.0,0.0,0.0,0.149612,0
+3-5y before app,Other,55,5.0,0.0,0.0,0.149612,0
+3-5y before app,Other,56,4.0,0.0,0.0,0.149612,0
+3-5y before app,Other,57,4.0,0.0,0.0,0.149612,0
+3-5y before app,Other,58,3.0,0.0,0.0,0.149612,0
+3-5y before app,Other,59,2.0,0.0,0.0,0.149612,0
+3-5y before app,Other,60,1.0,0.0,0.0,0.149612,0
+5y+ before app,Other,0,250.0,5.0,0.02,0.02,1
+5y+ before app,Other,1,576.0,6.0,0.010417,0.030208,1
+5y+ before app,Other,2,661.0,2.0,0.003026,0.033143,1
+5y+ before app,Other,3,658.0,0.0,0.0,0.033143,1
+5y+ before app,Other,4,647.0,3.0,0.004637,0.037626,1
+5y+ before app,Other,5,633.0,0.0,0.0,0.037626,1
+5y+ before app,Other,6,598.0,4.0,0.006689,0.044063,1
+5y+ before app,Other,7,561.0,2.0,0.003565,0.047471,1
+5y+ before app,Other,8,540.0,5.0,0.009259,0.056291,1
+5y+ before app,Other,9,512.0,7.0,0.013672,0.069193,1
+5y+ before app,Other,10,467.0,2.0,0.004283,0.073179,1
+5y+ before app,Other,11,431.0,3.0,0.006961,0.079631,1
+5y+ before app,Other,12,407.0,5.0,0.012285,0.090937,1
+5y+ before app,Other,13,369.0,6.0,0.01626,0.105719,1
+5y+ before app,Other,14,358.0,3.0,0.00838,0.113213,1
+5y+ before app,Other,15,348.0,5.0,0.014368,0.125954,1
+5y+ before app,Other,16,330.0,2.0,0.006061,0.131251,1
+5y+ before app,Other,17,318.0,0.0,0.0,0.131251,1
+5y+ before app,Other,18,309.0,1.0,0.003236,0.134063,1
+5y+ before app,Other,19,299.0,2.0,0.006689,0.139855,1
+5y+ before app,Other,20,294.0,3.0,0.010204,0.148632,1
+5y+ before app,Other,21,289.0,0.0,0.0,0.148632,1
+5y+ before app,Other,22,282.0,0.0,0.0,0.148632,1
+5y+ before app,Other,23,271.0,1.0,0.00369,0.151773,1
+5y+ before app,Other,24,249.0,1.0,0.004016,0.15518,1
+5y+ before app,Other,25,229.0,1.0,0.004367,0.158869,1
+5y+ before app,Other,26,225.0,2.0,0.008889,0.166346,1
+5y+ before app,Other,27,217.0,0.0,0.0,0.166346,1
+5y+ before app,Other,28,212.0,0.0,0.0,0.166346,1
+5y+ before app,Other,29,205.0,1.0,0.004878,0.170413,1
+5y+ before app,Other,30,200.0,3.0,0.015,0.182856,1
+5y+ before app,Other,31,194.0,3.0,0.015464,0.195493,1
+5y+ before app,Other,32,189.0,0.0,0.0,0.195493,1
+5y+ before app,Other,33,186.0,5.0,0.026882,0.217119,1
+5y+ before app,Other,34,179.0,2.0,0.011173,0.225866,1
+5y+ before app,Other,35,171.0,1.0,0.005848,0.230393,1
+5y+ before app,Other,36,163.0,1.0,0.006135,0.235115,1
+5y+ before app,Other,37,152.0,0.0,0.0,0.235115,1
+5y+ before app,Other,38,149.0,1.0,0.006711,0.240248,1
+5y+ before app,Other,39,143.0,1.0,0.006993,0.245561,1
+5y+ before app,Other,40,139.0,0.0,0.0,0.245561,1
+5y+ before app,Other,41,138.0,1.0,0.007246,0.251028,1
+5y+ before app,Other,42,136.0,0.0,0.0,0.251028,1
+5y+ before app,Other,43,134.0,2.0,0.014925,0.262207,1
+5y+ before app,Other,44,132.0,1.0,0.007576,0.267796,1
+5y+ before app,Other,45,129.0,1.0,0.007752,0.273472,1
+5y+ before app,Other,46,129.0,0.0,0.0,0.273472,1
+5y+ before app,Other,47,126.0,1.0,0.007937,0.279238,1
+5y+ before app,Other,48,121.0,1.0,0.008264,0.285195,1
+5y+ before app,Other,49,115.0,0.0,0.0,0.285195,1
+5y+ before app,Other,50,112.0,0.0,0.0,0.285195,1
+5y+ before app,Other,51,109.0,0.0,0.0,0.285195,1
+5y+ before app,Other,52,107.0,0.0,0.0,0.285195,1
+5y+ before app,Other,53,105.0,0.0,0.0,0.285195,1
+5y+ before app,Other,54,100.0,0.0,0.0,0.285195,1
+5y+ before app,Other,55,97.0,0.0,0.0,0.285195,0
+5y+ before app,Other,56,96.0,0.0,0.0,0.285195,0
+5y+ before app,Other,57,91.0,0.0,0.0,0.285195,0
+5y+ before app,Other,58,87.0,0.0,0.0,0.285195,0
+5y+ before app,Other,59,69.0,1.0,0.014493,0.295555,0
+5y+ before app,Other,60,32.0,0.0,0.0,0.295555,0

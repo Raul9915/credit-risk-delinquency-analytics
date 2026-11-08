@@ -1,0 +1,5 @@
+model,split,selected,auc,gini,ks,pr_auc,brier,observed_default_rate,mean_predicted_pd
+logistic_regression,valid,0,0.770385,0.54077,0.408888,0.255977,0.066753,0.080728,0.080728
+logistic_regression,test,0,0.762661,0.525322,0.398493,0.237749,0.067711,0.080728,0.080986
+gradient_boosting,valid,1,0.781634,0.563268,0.423672,0.26746,0.066045,0.080728,0.080728
+gradient_boosting,test,1,0.774031,0.548062,0.413071,0.24994,0.067014,0.080728,0.080972

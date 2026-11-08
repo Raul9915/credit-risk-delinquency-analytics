@@ -1,0 +1,52 @@
+# Project configuration. All paths are relative to the repository root.
+
+kaggle:
+  competition: home-credit-default-risk
+
+paths:
+  raw: data/raw              # Kaggle CSVs, downloaded by src/download.py (not versioned)
+  root: data                 # bronze/, silver/, gold/ are created here
+  reports: reports           # metrics, summary, Data Studio CSVs
+  images: images             # charts embedded in the README
+  models: models
+
+# Kaggle file name -> bronze table name
+sources:
+  application_train.csv: application
+  bureau.csv: bureau
+  bureau_balance.csv: bureau_balance
+  previous_application.csv: previous_application
+  installments_payments.csv: installments
+  POS_CASH_balance.csv: pos_cash
+  credit_card_balance.csv: credit_card
+
+delinquency:
+  # Bureau STATUS codes considered "default" (4 = 91-120 DPD, 5 = 120+ / written off)
+  default_status_min: 4
+  vintage_max_months_on_book: 60
+
+modeling:
+  random_seed: 42
+  test_size: 0.20
+  validation_size: 0.20        # share of the remaining (non-test) data
+  calibrate: true              # isotonic calibration on the validation set
+  risk_bands: [A, B, C, D, E]  # A = lowest PD, quintiles of validation PD
+  logistic_regression:
+    C: 0.1
+    max_iter: 2000
+  gradient_boosting:
+    learning_rate: 0.05
+    max_iter: 600
+    max_leaf_nodes: 31
+    min_samples_leaf: 100
+    l2_regularization: 1.0
+    early_stopping: true
+    validation_fraction: 0.1
+    n_iter_no_change: 30
+  permutation_importance:
+    sample_size: 20000
+    n_repeats: 3
+
+strategy:
+  approval_rate_min: 50
+  approval_rate_max: 100
